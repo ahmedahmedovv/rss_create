@@ -1,5 +1,5 @@
 # Base configuration
-base_url: http://localhost  # Change this to your web provider URL
+base_url: https://my-rss-files.netlify.app  # Change this to your web provider URL
 
 # Site configurations
 sites:
