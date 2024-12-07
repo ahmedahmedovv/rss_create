@@ -1,5 +1,5 @@
 [build]
-  publish = "rss"
+  publish = "."
   command = "pip install -r requirements.txt && python main.py"
 
 [build.environment]
@@ -9,4 +9,10 @@
   for = "/*.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+    Access-Control-Allow-Origin = "*"
+
+[[headers]]
+  for = "/*.json"
+  [headers.values]
+    Content-Type = "application/json"
     Access-Control-Allow-Origin = "*"

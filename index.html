@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSS Feed Directory</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .feed-list {
+            list-style: none;
+            padding: 0;
+        }
+        .feed-item {
+            margin: 10px 0;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .status {
+            padding: 10px;
+            margin-bottom: 20px;
+            background-color: #f0f0f0;
+            border-radius: 4px;
+        }
+        .timestamp {
+            color: #666;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <h1>RSS Feed Directory</h1>
+    <div class="status" id="status">
+        Last Update: <span id="lastUpdate">Loading...</span>
+    </div>
+    <div id="feedList">Loading feeds...</div>
+
+    <script>
+        async function loadFeeds() {
+            const feeds = ['trt', 'webb', 'rp', 'sabah', 'polskie', 'defenceministry'];
+            let html = '<ul class="feed-list">';
+            
+            for (const feed of feeds) {
+                const feedUrl = `/rss/${feed}.xml`;
+                html += `
+                    <li class="feed-item">
+                        <h3>${feed.toUpperCase()}</h3>
+                        <p>
+                            <a href="${feedUrl}" target="_blank">View RSS Feed</a>
+                            |
+                            <a href="/headlines/${feed}.md" target="_blank">View Headlines</a>
+                            |
+                            <a href="/headlines/${feed}.json" target="_blank">View JSON</a>
+                        </p>
+                    </li>
+                `;
+            }
+            html += '</ul>';
+            document.getElementById('feedList').innerHTML = html;
+
+            // Try to get last update time from any JSON file
+            try {
+                const response = await fetch(`/headlines/${feeds[0]}.json`);
+                const data = await response.json();
+                const timestamp = new Date(data.timestamp);
+                document.getElementById('lastUpdate').textContent = timestamp.toLocaleString();
+            } catch (e) {
+                document.getElementById('lastUpdate').textContent = 'No data available';
+            }
+        }
+
+        loadFeeds();
+    </script>
+</body>
+</html>
