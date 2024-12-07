@@ -33,6 +33,11 @@ sites:
     url: https://www.pap.pl/kraj?page=0
     selector: .title > a
 
+  - id: forsal
+    url: https://forsal.pl/kraj
+    selector: .itemTitle
+
+
 
 
 
