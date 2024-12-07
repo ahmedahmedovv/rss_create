@@ -29,6 +29,10 @@ sites:
     url: https://www.gov.pl/web/national-defence/news
     selector: .title
 
+  - id: pap
+    url: https://www.pap.pl/kraj?page=0
+    selector: .title > a
+
 
 
 
