@@ -1,6 +1,13 @@
 [build]
-  publish = "."
-  command = "pip install -r requirements.txt && python main.py"
+  publish = "public"
+  command = """
+    mkdir -p public/rss public/headlines && 
+    pip install -r requirements.txt && 
+    python main.py && 
+    cp -r rss/* public/rss/ && 
+    cp -r headlines/* public/headlines/ && 
+    cp index.html public/
+  """
 
 [build.environment]
   PYTHON_VERSION = "3.8"

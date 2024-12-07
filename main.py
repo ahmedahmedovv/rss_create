@@ -22,8 +22,10 @@ def main():
     except FileNotFoundError:
         print("Warning: config.yaml not found, using default base URL")
     
-    ensure_output_dir(output_dir)
-    ensure_output_dir(rss_dir)
+    # Create directories if they don't exist
+    for directory in [output_dir, rss_dir, "public"]:
+        if not os.path.exists(directory):
+            os.makedirs(directory)
     
     # Create scrapers from yaml config file
     scrapers = create_scrapers_from_config("config.yaml", output_dir)
