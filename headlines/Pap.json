@@ -1,5 +1,74 @@
 {
   "title": "Pap",
-  "headlines": [],
-  "timestamp": "2024-12-08T18:44:34.485397"
+  "headlines": [
+    {
+      "headline": "\"Nawet najokrutniejszy reżim może upaść\". Premier Donald Tusk o wydarzeniach w Syrii",
+      "link": "https://www.pap.pl/aktualnosci/nawet-najokrutniejszy-rezim-moze-upasc-premier-donald-tusk-o-wydarzeniach-w-syrii"
+    },
+    {
+      "headline": "Deportacja Polaka skazanego za zabójstwo w RPA. Rzecznik MSZ o kosztach",
+      "link": "https://www.pap.pl/aktualnosci/deportacja-polaka-skazanego-za-zabojstwo-w-rpa-rzecznik-msz-o-kosztach"
+    },
+    {
+      "headline": "Wybrano najpiękniejsze Szopki Krakowskie",
+      "link": "https://www.pap.pl/aktualnosci/wybrano-najpiekniejsze-szopki-krakowskie-0"
+    },
+    {
+      "headline": "Morawiecki: zwycięstwo Trumpa to sygnał, że można przełamać \"wielkie lewicowe fale\"",
+      "link": "https://www.pap.pl/aktualnosci/morawiecki-zwyciestwo-trumpa-sygnal-ze-mozna-przelamac-wielkie-lewicowe-fale"
+    },
+    {
+      "headline": "Trzaskowski komentuje apel Nawrockiego. \"Postanowił robić kampanię na powodzianach\"",
+      "link": "https://www.pap.pl/aktualnosci/trzaskowski-komentuje-apel-nawrockiego-postanowil-robic-kampanie-na-powodzianach"
+    },
+    {
+      "headline": "IMGW ostrzega przed gwałtownymi wzrostami stanów wody na Zalewie Szczecińskim",
+      "link": "https://www.pap.pl/aktualnosci/imgw-ostrzega-przed-gwaltownymi-wzrostami-stanow-wody-na-zalewie-szczecinskim"
+    },
+    {
+      "headline": "Z powodu zagrożenia lawinowego w Karkonoszach zamknięto szlaki turystyczne",
+      "link": "https://www.pap.pl/aktualnosci/z-powodu-zagrozenia-lawinowego-w-karkonoszach-zamknieto-szlaki-turystyczne"
+    },
+    {
+      "headline": "\"Nawet najokrutniejszy reżim może upaść\". Premier Donald Tusk o wydarzeniach w Syrii",
+      "link": "https://www.pap.pl/aktualnosci/nawet-najokrutniejszy-rezim-moze-upasc-premier-donald-tusk-o-wydarzeniach-w-syrii"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
+    },
+    {
+      "headline": "Upadek reżimu Asada w Syrii. Komentarz wiceprezydenta elekta USA",
+      "link": "https://www.pap.pl/aktualnosci/upadek-rezimu-asada-w-syrii-komentarz-wiceprezydenta-elekta-usa"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
+      "headline": "Francuska skrajna prawica obawia się „przypływu migracji” po upadku Asada",
+      "link": "https://www.pap.pl/aktualnosci/francuska-skrajna-prawica-obawia-sie-przyplywu-migracji-po-upadku-asada"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
+      "headline": "Konkurs skoków narciarskich w Wiśle. Jak wypadli Polacy?",
+      "link": "https://www.pap.pl/aktualnosci/konkurs-skokow-narciarskich-w-wisle-jak-wypadli-polacy"
+    },
+    {
+      "headline": "Sport",
+      "link": "https://www.pap.pl/list-of-articles/47"
+    },
+    {
+      "headline": "Trump: Jeśli Europejczycy nie będą traktować nas odpowiednio, rozważę wycofanie się z NATO",
+      "link": "https://www.pap.pl/aktualnosci/trump-jesli-europejczycy-nie-beda-traktowac-nas-odpowiednio-rozwaze-wycofanie-sie-z-0"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    }
+  ],
+  "timestamp": "2024-12-08T17:46:41.647711"
 }
