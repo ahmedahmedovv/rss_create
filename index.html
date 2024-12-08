@@ -31,6 +31,11 @@
             color: #666;
             font-size: 0.9em;
         }
+        .feed-timestamp {
+            font-size: 0.8em;
+            color: #666;
+            margin-top: 5px;
+        }
     </style>
 </head>
 <body>
@@ -42,39 +47,42 @@
 
     <script>
         async function loadFeeds() {
-            const feeds = ['trt', 'webb', 'rp', 'sabah', 'polskie', 'defenceministry'];
-            let html = '<ul class="feed-list">';
-            
-            for (const feed of feeds) {
-                const feedUrl = `/rss/${feed}.xml`;
-                html += `
-                    <li class="feed-item">
-                        <h3>${feed.toUpperCase()}</h3>
-                        <p>
-                            <a href="${feedUrl}" target="_blank">View RSS Feed</a>
-                            |
-                            <a href="/headlines/${feed}.md" target="_blank">View Headlines</a>
-                            |
-                            <a href="/headlines/${feed}.json" target="_blank">View JSON</a>
-                        </p>
-                    </li>
-                `;
-            }
-            html += '</ul>';
-            document.getElementById('feedList').innerHTML = html;
-
-            // Try to get last update time from any JSON file
             try {
-                const response = await fetch(`/headlines/${feeds[0]}.json`);
+                const response = await fetch('/feeds.json');
                 const data = await response.json();
-                const timestamp = new Date(data.timestamp);
-                document.getElementById('lastUpdate').textContent = timestamp.toLocaleString();
+                
+                let html = '<ul class="feed-list">';
+                
+                for (const feed of data.feeds) {
+                    const lastUpdated = new Date(feed.last_updated).toLocaleString();
+                    html += `
+                        <li class="feed-item">
+                            <h3>${feed.title}</h3>
+                            <p>
+                                <a href="${feed.rss_url}" target="_blank">View RSS Feed</a>
+                                |
+                                <a href="${feed.json_url}" target="_blank">View JSON</a>
+                            </p>
+                            <div class="feed-timestamp">Last updated: ${lastUpdated}</div>
+                        </li>
+                    `;
+                }
+                html += '</ul>';
+                document.getElementById('feedList').innerHTML = html;
+                
+                // Update the global last update time
+                const lastUpdate = new Date(data.last_updated).toLocaleString();
+                document.getElementById('lastUpdate').textContent = lastUpdate;
             } catch (e) {
+                document.getElementById('feedList').innerHTML = 'Error loading feeds: ' + e.message;
                 document.getElementById('lastUpdate').textContent = 'No data available';
             }
         }
 
         loadFeeds();
+        
+        // Refresh the feed list every 5 minutes
+        setInterval(loadFeeds, 5 * 60 * 1000);
     </script>
 </body>
 </html>
