@@ -32,5 +32,4 @@ ENV/
 *.swo
 
 # Project specific
-headlines/
 *.log 
