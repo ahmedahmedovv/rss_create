@@ -2,6 +2,14 @@
   "title": "Pap",
   "headlines": [
     {
+      "headline": "Trzaskowski komentuje apel Nawrockiego. \"Postanowił robić kampanię na powodzianach\"",
+      "link": "https://www.pap.pl/aktualnosci/trzaskowski-komentuje-apel-nawrockiego-postanowil-robic-kampanie-na-powodzianach"
+    },
+    {
+      "headline": "IMGW ostrzega przed gwałtownymi wzrostami stanów wody na Zalewie Szczecińskim",
+      "link": "https://www.pap.pl/aktualnosci/imgw-ostrzega-przed-gwaltownymi-wzrostami-stanow-wody-na-zalewie-szczecinskim"
+    },
+    {
       "headline": "Z powodu zagrożenia lawinowego w Karkonoszach zamknięto szlaki turystyczne",
       "link": "https://www.pap.pl/aktualnosci/z-powodu-zagrozenia-lawinowego-w-karkonoszach-zamknieto-szlaki-turystyczne"
     },
@@ -22,53 +30,45 @@
       "link": "https://www.pap.pl/aktualnosci/ambasada-polski-w-syrii-apeluje-polacy-natychmiast-opuscili-ten-kraj-1"
     },
     {
-      "headline": "Przywrócono ruch po awarii urządzeń sterowania w rejonie Warszawy Centralnej",
-      "link": "https://www.pap.pl/aktualnosci/przywrocono-ruch-po-awarii-urzadzen-sterowania-w-rejonie-warszawy-centralnej"
-    },
-    {
-      "headline": "Nawrocki: nie patrzcie na mnie tylko, jak na chłopaka z siłowni, jestem doktorem nauk, prezesem IPN",
-      "link": "https://www.pap.pl/aktualnosci/nawrocki-nie-patrzcie-na-mnie-tylko-jak-na-chlopaka-z-silowni-jestem-doktorem-nauk-4"
-    },
-    {
-      "headline": "Jak złe sąsiedztwo wpływa na zdrowie? Naukowcy wskazują na otępienie i wyższe ciśnienie",
-      "link": "https://www.pap.pl/aktualnosci/jak-zle-sasiedztwo-wplywa-na-zdrowie-naukowcy-wskazuja-na-otepienie-i-wyzsze-cisnienie"
-    },
-    {
-      "headline": "Nauka",
-      "link": "https://www.pap.pl/list-of-articles/46"
-    },
-    {
-      "headline": "Szef MSZ Turcji: nowa Syria nie powinna stwarzać zagrożenia dla sąsiadów",
-      "link": "https://www.pap.pl/aktualnosci/szef-msz-turcji-nowa-syria-nie-powinna-stwarzac-zagrozenia-dla-sasiadow"
+      "headline": "Prezydent Macron: w Syrii upadło barbarzyńskie państwo",
+      "link": "https://www.pap.pl/aktualnosci/prezydent-macron-w-syrii-upadlo-barbarzynskie-panstwo"
     },
     {
       "headline": "Świat",
       "link": "https://www.pap.pl/list-of-articles/48"
     },
     {
-      "headline": "WT w short tracku. Drugie miejsce Niewińskiego na 1000 m",
-      "link": "https://www.pap.pl/aktualnosci/wt-w-short-tracku-drugie-miejsce-niewinskiego-na-1000-m-1"
-    },
-    {
-      "headline": "Sport",
-      "link": "https://www.pap.pl/list-of-articles/47"
-    },
-    {
-      "headline": "Pierwsza msza w odbudowanej katedrze Notre Dame",
-      "link": "https://www.pap.pl/aktualnosci/pierwsza-msza-w-odbudowanej-katedrze-notre-dame"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "Z powodu zagrożenia lawinowego w Karkonoszach zamknięto szlaki turystyczne",
-      "link": "https://www.pap.pl/aktualnosci/z-powodu-zagrozenia-lawinowego-w-karkonoszach-zamknieto-szlaki-turystyczne"
+      "headline": "Trzaskowski komentuje apel Nawrockiego. \"Postanowił robić kampanię na powodzianach\"",
+      "link": "https://www.pap.pl/aktualnosci/trzaskowski-komentuje-apel-nawrockiego-postanowil-robic-kampanie-na-powodzianach"
     },
     {
       "headline": "Kraj",
       "link": "https://www.pap.pl/list-of-articles/43"
+    },
+    {
+      "headline": "Rebelianci ogłosili godzinę policyjną w Damaszku. Izrael przeprowadza ataki lotnicze",
+      "link": "https://www.pap.pl/aktualnosci/rebelianci-oglosili-godzine-policyjna-w-damaszku-izrael-przeprowadza-ataki-lotnicze"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
+      "headline": "George Simion, lider partii AUR: w nowych wyborach poprzemy Georgescu",
+      "link": "https://www.pap.pl/aktualnosci/george-simion-lider-partii-aur-w-nowych-wyborach-poprzemy-georgescu"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
+      "headline": "Zełenski: od początku wojny z Rosją zginęło 43 tys. naszych żołnierzy",
+      "link": "https://www.pap.pl/aktualnosci/zelenski-od-poczatku-wojny-z-rosja-zginelo-43-tys-naszych-zolnierzy"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
     }
   ],
-  "timestamp": "2024-12-08T12:25:11.649560"
+  "timestamp": "2024-12-08T13:20:34.593178"
 }
