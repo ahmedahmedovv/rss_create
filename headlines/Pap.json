@@ -2,6 +2,10 @@
   "title": "Pap",
   "headlines": [
     {
+      "headline": "Morawiecki: zwycięstwo Trumpa to sygnał, że można przełamać \"wielkie lewicowe fale\"",
+      "link": "https://www.pap.pl/aktualnosci/morawiecki-zwyciestwo-trumpa-sygnal-ze-mozna-przelamac-wielkie-lewicowe-fale"
+    },
+    {
       "headline": "Trzaskowski komentuje apel Nawrockiego. \"Postanowił robić kampanię na powodzianach\"",
       "link": "https://www.pap.pl/aktualnosci/trzaskowski-komentuje-apel-nawrockiego-postanowil-robic-kampanie-na-powodzianach"
     },
@@ -26,8 +30,28 @@
       "link": "https://www.pap.pl/aktualnosci/polska-reaguje-na-wydarzenia-w-syrii-nie-ma-zgloszen-o-potrzebie-ewakuacji-polakow"
     },
     {
-      "headline": "Ambasada Polski w Syrii apeluje, by Polacy natychmiast opuścili ten kraj",
-      "link": "https://www.pap.pl/aktualnosci/ambasada-polski-w-syrii-apeluje-polacy-natychmiast-opuscili-ten-kraj-1"
+      "headline": "Kreml odpowiada na apel Donalda Trumpa",
+      "link": "https://www.pap.pl/aktualnosci/kreml-odpowiada-na-apel-donalda-trumpa"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
+      "headline": "Morawiecki: zwycięstwo Trumpa to sygnał, że można przełamać \"wielkie lewicowe fale\"",
+      "link": "https://www.pap.pl/aktualnosci/morawiecki-zwyciestwo-trumpa-sygnal-ze-mozna-przelamac-wielkie-lewicowe-fale"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
+    },
+    {
+      "headline": "Przywódca syryjskich rebeliantów: nie cofniemy się, przyszłość należy do nas",
+      "link": "https://www.pap.pl/aktualnosci/przywodca-syryjskich-rebeliantow-nie-cofniemy-sie-przyszlosc-nalezy-do-nas"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
     },
     {
       "headline": "Szef MSZ Ukrainy o upadku reżimu Asada: to spotka wszystkich dyktatorów, którzy postawili na Putina",
@@ -44,31 +68,7 @@
     {
       "headline": "Świat",
       "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "Trzaskowski komentuje apel Nawrockiego. \"Postanowił robić kampanię na powodzianach\"",
-      "link": "https://www.pap.pl/aktualnosci/trzaskowski-komentuje-apel-nawrockiego-postanowil-robic-kampanie-na-powodzianach"
-    },
-    {
-      "headline": "Kraj",
-      "link": "https://www.pap.pl/list-of-articles/43"
-    },
-    {
-      "headline": "Rebelianci ogłosili godzinę policyjną w Damaszku. Izrael przeprowadza ataki lotnicze",
-      "link": "https://www.pap.pl/aktualnosci/rebelianci-oglosili-godzine-policyjna-w-damaszku-izrael-przeprowadza-ataki-lotnicze"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "George Simion, lider partii AUR: w nowych wyborach poprzemy Georgescu",
-      "link": "https://www.pap.pl/aktualnosci/george-simion-lider-partii-aur-w-nowych-wyborach-poprzemy-georgescu"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
     }
   ],
-  "timestamp": "2024-12-08T14:11:50.820723"
+  "timestamp": "2024-12-08T15:12:46.961885"
 }
