@@ -2,6 +2,14 @@
   "title": "Pap",
   "headlines": [
     {
+      "headline": "Deportacja Polaka skazanego za zabójstwo w RPA. Rzecznik MSZ o kosztach",
+      "link": "https://www.pap.pl/aktualnosci/deportacja-polaka-skazanego-za-zabojstwo-w-rpa-rzecznik-msz-o-kosztach"
+    },
+    {
+      "headline": "Wybrano najpiękniejsze Szopki Krakowskie",
+      "link": "https://www.pap.pl/aktualnosci/wybrano-najpiekniejsze-szopki-krakowskie-0"
+    },
+    {
       "headline": "Morawiecki: zwycięstwo Trumpa to sygnał, że można przełamać \"wielkie lewicowe fale\"",
       "link": "https://www.pap.pl/aktualnosci/morawiecki-zwyciestwo-trumpa-sygnal-ze-mozna-przelamac-wielkie-lewicowe-fale"
     },
@@ -22,12 +30,28 @@
       "link": "https://www.pap.pl/aktualnosci/warunki-na-szlakach-trudne-w-partiach-szczytowych-jest-slisko"
     },
     {
-      "headline": "Karol Nawrocki odpowiedział, kiedy przedstawi program wyborczy",
-      "link": "https://www.pap.pl/aktualnosci/karol-nawrocki-odpowiedzial-kiedy-przedstawi-program-wyborczy"
+      "headline": "Deportacja Polaka skazanego za zabójstwo w RPA. Rzecznik MSZ o kosztach",
+      "link": "https://www.pap.pl/aktualnosci/deportacja-polaka-skazanego-za-zabojstwo-w-rpa-rzecznik-msz-o-kosztach"
     },
     {
-      "headline": "Polska reaguje na wydarzenia w Syrii. \"Nie ma zgłoszeń o potrzebie ewakuacji Polaków, monitorujemy sytuację\"",
-      "link": "https://www.pap.pl/aktualnosci/polska-reaguje-na-wydarzenia-w-syrii-nie-ma-zgloszen-o-potrzebie-ewakuacji-polakow"
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
+    },
+    {
+      "headline": "PŚ w skokach. Polski kibic: nadzieja umiera ostatnia",
+      "link": "https://www.pap.pl/aktualnosci/ps-w-skokach-polski-kibic-nadzieja-umiera-ostatnia-0"
+    },
+    {
+      "headline": "Sport",
+      "link": "https://www.pap.pl/list-of-articles/47"
+    },
+    {
+      "headline": "Wybrano najpiękniejsze Szopki Krakowskie",
+      "link": "https://www.pap.pl/aktualnosci/wybrano-najpiekniejsze-szopki-krakowskie-0"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
       "headline": "Kreml odpowiada na apel Donalda Trumpa",
@@ -44,31 +68,7 @@
     {
       "headline": "Kraj",
       "link": "https://www.pap.pl/list-of-articles/43"
-    },
-    {
-      "headline": "Przywódca syryjskich rebeliantów: nie cofniemy się, przyszłość należy do nas",
-      "link": "https://www.pap.pl/aktualnosci/przywodca-syryjskich-rebeliantow-nie-cofniemy-sie-przyszlosc-nalezy-do-nas"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "Szef MSZ Ukrainy o upadku reżimu Asada: to spotka wszystkich dyktatorów, którzy postawili na Putina",
-      "link": "https://www.pap.pl/aktualnosci/szef-msz-ukrainy-o-upadku-rezimu-asada-spotka-wszystkich-dyktatorow-ktorzy-postawili-na"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "Prezydent Macron: w Syrii upadło barbarzyńskie państwo",
-      "link": "https://www.pap.pl/aktualnosci/prezydent-macron-w-syrii-upadlo-barbarzynskie-panstwo"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
     }
   ],
-  "timestamp": "2024-12-08T15:12:46.961885"
+  "timestamp": "2024-12-08T16:15:02.593170"
 }
