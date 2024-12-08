@@ -5,7 +5,7 @@
       "title": "DEFENCEMINISTRY",
       "rss_url": "/rss/defenceministry.xml",
       "json_url": "/headlines/defenceministry.json",
-      "last_updated": "2024-12-08T19:36:47.465550"
+      "last_updated": "2024-12-08T19:47:14.032819"
     },
     {
       "id": "forsal",
@@ -19,28 +19,28 @@
       "title": "PAP",
       "rss_url": "/rss/pap.xml",
       "json_url": "/headlines/pap.json",
-      "last_updated": "2024-12-08T19:36:47.938183"
+      "last_updated": "2024-12-08T19:47:14.242255"
     },
     {
       "id": "polskie",
       "title": "POLSKIE",
       "rss_url": "/rss/polskie.xml",
       "json_url": "/headlines/polskie.json",
-      "last_updated": "2024-12-08T19:36:47.397059"
+      "last_updated": "2024-12-08T19:47:13.972280"
     },
     {
       "id": "rp",
       "title": "RP",
       "rss_url": "/rss/rp.xml",
       "json_url": "/headlines/rp.json",
-      "last_updated": "2024-12-08T19:36:46.541333"
+      "last_updated": "2024-12-08T19:47:13.224232"
     },
     {
       "id": "sabah",
       "title": "SABAH",
       "rss_url": "/rss/sabah.xml",
       "json_url": "/headlines/sabah.json",
-      "last_updated": "2024-12-08T19:36:46.790690"
+      "last_updated": "2024-12-08T19:47:13.441992"
     },
     {
       "id": "trt",
@@ -68,15 +68,15 @@
       "title": "TRT TEST TEST3 TEST4",
       "rss_url": "/rss/trt test test3 test4.xml",
       "json_url": "/headlines/trt test test3 test4.json",
-      "last_updated": "2024-12-08T19:36:45.951284"
+      "last_updated": "2024-12-08T19:47:12.733312"
     },
     {
       "id": "webb",
       "title": "WEBB",
       "rss_url": "/rss/webb.xml",
       "json_url": "/headlines/webb.json",
-      "last_updated": "2024-12-08T19:36:46.365315"
+      "last_updated": "2024-12-08T19:47:13.115127"
     }
   ],
-  "last_updated": "2024-12-08T19:36:47.958543"
+  "last_updated": "2024-12-08T19:47:14.254425"
 }

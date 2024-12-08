@@ -4,6 +4,7 @@ from scrapers.scraper_factory import create_scrapers_from_config
 from scrapers.rss_generator import RSSGenerator
 import json
 from datetime import datetime
+from app import app
 
 def ensure_output_dir(directory):
     if not os.path.exists(directory):
@@ -82,6 +83,9 @@ def main():
     
     # Generate feeds index
     generate_feeds_index(rss_dir, output_dir, public_dir)
+    
+    # Start Flask server
+    app.run(host='0.0.0.0', port=5000)
 
 if __name__ == "__main__":
     main() 

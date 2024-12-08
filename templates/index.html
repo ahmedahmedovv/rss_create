@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSS Feed Directory</title>
+    <!-- Primer CSS -->
+    <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
+</head>
+<body class="container-lg px-3 py-6">
+    <div class="Box p-6">
+        <h1 class="h1 mb-4">RSS Feed Directory</h1>
+        
+        <div class="flash mb-4">
+            Last Update: <span class="text-bold">{{ last_updated|datetime }}</span>
+        </div>
+
+        <div class="Box">
+            {% for feed in feeds %}
+            <div class="Box-row d-flex flex-items-center">
+                <div class="flex-auto">
+                    <h3 class="mb-1">{{ feed.title }}</h3>
+                    <div class="BtnGroup mb-2">
+                        <a href="{{ feed.rss_url }}" class="BtnGroup-item btn btn-sm" target="_blank">
+                            RSS Feed
+                        </a>
+                        <a href="{{ feed.json_url }}" class="BtnGroup-item btn btn-sm" target="_blank">
+                            JSON
+                        </a>
+                    </div>
+                    <div class="text-small color-fg-muted">
+                        Last updated: {{ feed.last_updated|datetime }}
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <script>
+        // Auto-refresh every 5 minutes
+        setTimeout(() => window.location.reload(), 5 * 60 * 1000);
+    </script>
+</body>
+</html> 

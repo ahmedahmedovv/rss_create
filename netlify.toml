@@ -6,7 +6,7 @@
     python main.py && 
     cp -r rss/* public/rss/ && 
     cp -r headlines/* public/headlines/ && 
-    cp index.html public/
+    cp -r templates/* public/
   """
 
 [build.environment]
