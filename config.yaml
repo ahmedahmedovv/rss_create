@@ -5,7 +5,7 @@ base_url: https://my-rss-files.netlify.app  # Change this to your web provider U
 sites:
 
 
-  - id: trt test test
+  - id: trt test test3
     url: https://www.trthaber.com/son-dakika-haberleri
     selector: .last-news-container .title a 
 
