@@ -1,0 +1,82 @@
+{
+  "feeds": [
+    {
+      "id": "defenceministry",
+      "title": "DEFENCEMINISTRY",
+      "rss_url": "/rss/defenceministry.xml",
+      "json_url": "/headlines/defenceministry.json",
+      "last_updated": "2024-12-08T18:27:41.344029"
+    },
+    {
+      "id": "forsal",
+      "title": "FORSAL",
+      "rss_url": "/rss/forsal.xml",
+      "json_url": "/headlines/forsal.json",
+      "last_updated": "2024-12-08T18:27:41.344089"
+    },
+    {
+      "id": "pap",
+      "title": "PAP",
+      "rss_url": "/rss/pap.xml",
+      "json_url": "/headlines/pap.json",
+      "last_updated": "2024-12-08T18:27:41.344099"
+    },
+    {
+      "id": "polskie",
+      "title": "POLSKIE",
+      "rss_url": "/rss/polskie.xml",
+      "json_url": "/headlines/polskie.json",
+      "last_updated": "2024-12-08T18:27:41.344109"
+    },
+    {
+      "id": "rp",
+      "title": "RP",
+      "rss_url": "/rss/rp.xml",
+      "json_url": "/headlines/rp.json",
+      "last_updated": "2024-12-08T18:27:41.344059"
+    },
+    {
+      "id": "sabah",
+      "title": "SABAH",
+      "rss_url": "/rss/sabah.xml",
+      "json_url": "/headlines/sabah.json",
+      "last_updated": "2024-12-08T18:27:41.344138"
+    },
+    {
+      "id": "trt",
+      "title": "TRT",
+      "rss_url": "/rss/trt.xml",
+      "json_url": "/headlines/trt.json",
+      "last_updated": "2024-12-08T18:27:41.344118"
+    },
+    {
+      "id": "trt test test",
+      "title": "TRT TEST TEST",
+      "rss_url": "/rss/trt test test.xml",
+      "json_url": "/headlines/trt test test.json",
+      "last_updated": "2024-12-08T18:27:41.344080"
+    },
+    {
+      "id": "trt test test3",
+      "title": "TRT TEST TEST3",
+      "rss_url": "/rss/trt test test3.xml",
+      "json_url": "/headlines/trt test test3.json",
+      "last_updated": "2024-12-08T18:27:41.344069"
+    },
+    {
+      "id": "trt test test3 test4",
+      "title": "TRT TEST TEST3 TEST4",
+      "rss_url": "/rss/trt test test3 test4.xml",
+      "json_url": "/headlines/trt test test3 test4.json",
+      "last_updated": "2024-12-08T18:27:41.344129"
+    },
+    {
+      "id": "webb",
+      "title": "WEBB",
+      "rss_url": "/rss/webb.xml",
+      "json_url": "/headlines/webb.json",
+      "last_updated": "2024-12-08T18:27:41.344046"
+    }
+  ],
+  "last_updated": "2024-12-08T18:27:41.344144"
+}
