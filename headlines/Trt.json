@@ -2,6 +2,14 @@
   "title": "Trt",
   "headlines": [
     {
+      "headline": "İstanbul için sağanak uyarısı",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbul-icin-saganak-uyarisi-890976.html"
+    },
+    {
+      "headline": "Türk baklavası rüzgarı Azerbaycan'da esecek",
+      "link": "https://www.trthaber.com/haber/ekonomi/turk-baklavasi-ruzgari-azerbaycanda-esecek-890975.html"
+    },
+    {
       "headline": "Tırdan fırlayan lastiğin çarptığı otomobildeki yolcu öldü",
       "link": "https://www.trthaber.com/haber/turkiye/tirdan-firlayan-lastigin-carptigi-otomobildeki-yolcu-oldu-890974.html"
     },
@@ -32,15 +40,7 @@
     {
       "headline": "Ankara'da otomobil köprülü kavşaktan düştü: 5 ölü",
       "link": "https://www.trthaber.com/haber/turkiye/ankarada-otomobil-koprulu-kavsaktan-dustu-5-olu-890967.html"
-    },
-    {
-      "headline": "Depremlerin merkez üssü Kahramanmaraş'ta fidanlar toprakla buluşturuldu",
-      "link": "https://www.trthaber.com/haber/yasam/depremlerin-merkez-ussu-kahramanmarasta-fidanlar-toprakla-bulusturuldu-890966.html"
-    },
-    {
-      "headline": "Dışişleri Bakanlığı'nın 15. Büyükelçiler Konferansı yarın başlıyor",
-      "link": "https://www.trthaber.com/haber/gundem/disisleri-bakanliginin-15-buyukelciler-konferansi-yarin-basliyor-890965.html"
     }
   ],
-  "timestamp": "2024-12-08T12:04:43.396643"
+  "timestamp": "2024-12-08T12:25:08.092273"
 }
