@@ -2,8 +2,8 @@
   "title": "Pap",
   "headlines": [
     {
-      "headline": "Policja: odnaleziono samochód zaginionego profesora UKSW, w środku były zwłoki",
-      "link": "https://www.pap.pl/aktualnosci/policja-odnaleziono-samochod-zaginionego-profesora-uksw-w-srodku-byly-zwloki-1"
+      "headline": "Rektor UKSW poinformował o śmierci prof. Mirosława Kurkowskiego. Naukowiec zaginął kilka dni temu",
+      "link": "https://www.pap.pl/aktualnosci/rektor-uksw-poinformowal-o-smierci-prof-miroslawa-kurkowskiego-naukowiec-zaginal-kilka"
     },
     {
       "headline": "Rząd reaguje na wydarzenia w Syrii. Jest tam 130 Polaków",
@@ -30,6 +30,14 @@
       "link": "https://www.pap.pl/aktualnosci/trzaskowski-komentuje-apel-nawrockiego-postanowil-robic-kampanie-na-powodzianach"
     },
     {
+      "headline": "Cywile i rebelianci weszli do pałacu Asada w Damaszku [ZDJĘCIA]",
+      "link": "https://www.pap.pl/aktualnosci/cywile-i-rebelianci-weszli-do-palacu-asada-w-damaszku-zdjecia"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
       "headline": "Reuters: Asad jest w Moskwie, otrzymał azyl polityczny",
       "link": "https://www.pap.pl/aktualnosci/reuters-asad-jest-w-moskwie-otrzymal-azyl-polityczny-0"
     },
@@ -38,8 +46,8 @@
       "link": "https://www.pap.pl/list-of-articles/48"
     },
     {
-      "headline": "Policja: odnaleziono samochód zaginionego profesora UKSW, w środku były zwłoki",
-      "link": "https://www.pap.pl/aktualnosci/policja-odnaleziono-samochod-zaginionego-profesora-uksw-w-srodku-byly-zwloki-1"
+      "headline": "Rektor UKSW poinformował o śmierci prof. Mirosława Kurkowskiego. Naukowiec zaginął kilka dni temu",
+      "link": "https://www.pap.pl/aktualnosci/rektor-uksw-poinformowal-o-smierci-prof-miroslawa-kurkowskiego-naukowiec-zaginal-kilka"
     },
     {
       "headline": "Kraj",
@@ -60,15 +68,7 @@
     {
       "headline": "Kraj",
       "link": "https://www.pap.pl/list-of-articles/43"
-    },
-    {
-      "headline": "Upadek reżimu Asada w Syrii. Komentarz wiceprezydenta elekta USA",
-      "link": "https://www.pap.pl/aktualnosci/upadek-rezimu-asada-w-syrii-komentarz-wiceprezydenta-elekta-usa"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
     }
   ],
-  "timestamp": "2024-12-08T19:09:59.943230"
+  "timestamp": "2024-12-08T20:14:25.642624"
 }
