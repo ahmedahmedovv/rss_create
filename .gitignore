@@ -33,5 +33,4 @@ ENV/
 
 # Project specific
 headlines/
-rss/
 *.log 
