@@ -2,12 +2,24 @@
   "title": "Rp",
   "headlines": [
     {
+      "headline": "Czym polska Marynarka Wojenna patroluje dziś Morze Bałtyckie?",
+      "link": "https://www.rp.pl/wojsko/art41552861-czym-polska-marynarka-wojenna-patroluje-dzis-morze-baltyckie"
+    },
+    {
+      "headline": "Nawrocki krytykuje Trzaskowskiego. „Zacząłem szukać różańca”",
+      "link": "https://www.rp.pl/polityka/art41552711-karol-nawrocki-krytykuje-rafala-trzaskowskiego-zaczalem-szukac-rozanca"
+    },
+    {
       "headline": "Jacek Nizinkiewicz: PiS robi Nawrockiemu kampanię na tragedii, żeby uderzyć w Trzaskowskiego",
       "link": "https://www.rp.pl/publicystyka/art41552391-jacek-nizinkiewicz-pis-robi-nawrockiemu-kampanie-na-tragedii-zeby-uderzyc-w-trzaskowskiego"
     },
     {
       "headline": "Trzaskowski zaczyna z impetem. I chce uniknąć błędów z przeszłości",
       "link": "https://www.rp.pl/publicystyka/art41552151-trzaskowski-zaczyna-z-impetem-i-chce-uniknac-bledow-z-przeszlosci"
+    },
+    {
+      "headline": "Szymon Hołownia rozpoczyna walkę o prezydenturę. \"Wciąż widzę dwie Polski, straszące sobą nawzajem\"",
+      "link": "https://www.rp.pl/polityka/art41552161-szymon-holownia-rozpoczyna-walke-o-prezydenture-wciaz-widze-dwie-polski-straszace-soba-nawzajem"
     },
     {
       "headline": "Konwencja KO w Gliwicach. Trzaskowski zapowiada \"Polskę równych szans\"",
@@ -24,19 +36,7 @@
     {
       "headline": "Poseł Polski 2050: Wysokie ceny masła? Jadłem bułkę bez i też się dało zjeść",
       "link": "https://www.rp.pl/polityka/art41551351-posel-polski-2050-wysokie-ceny-masla-jadlem-bulke-bez-i-tez-sie-dalo-zjesc"
-    },
-    {
-      "headline": "Policja apeluje o pomoc. Zaginął profesor warszawskiej uczelni",
-      "link": "https://www.rp.pl/spoleczenstwo/art41551261-policja-apeluje-o-pomoc-zaginal-profesor-warszawskiej-uczelni"
-    },
-    {
-      "headline": "Emerytowany policjant zastrzelił żonę. Czy już wcześniej była ofiarą jego przemocy?",
-      "link": "https://www.rp.pl/przestepczosc/art41550991-emerytowany-policjant-zastrzelil-zone-czy-juz-wczesniej-byla-ofiara-jego-przemocy"
-    },
-    {
-      "headline": "Donald Tusk o głosowaniu ws. immunitetu Kaczyńskiego: Niedobrze mi się robi",
-      "link": "https://www.rp.pl/polityka/art41551141-donald-tusk-o-glosowaniu-ws-immunitetu-kaczynskiego-niedobrze-mi-sie-robi"
     }
   ],
-  "timestamp": "2024-12-09T03:02:20.617897"
+  "timestamp": "2024-12-09T04:17:06.821194"
 }
