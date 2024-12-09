@@ -2,6 +2,10 @@
   "title": "Pap",
   "headlines": [
     {
+      "headline": "Szef MSZ spotkał się z wicepremier Ukrainy ds. integracji europejskiej",
+      "link": "https://www.pap.pl/aktualnosci/szef-msz-spotkal-sie-z-wicepremier-ukrainy-ds-integracji-europejskiej"
+    },
+    {
       "headline": "Hennig-Kloska o polskiej prezydencji: należy zamknąć rynek UE na rosyjskie surowce",
       "link": "https://www.pap.pl/aktualnosci/hennig-kloska-o-polskiej-prezydencji-nalezy-zamknac-rynek-ue-na-rosyjskie-surowce-0"
     },
@@ -26,8 +30,28 @@
       "link": "https://www.pap.pl/aktualnosci/mon-i-dowodcy-kluczowe-zmiany-w-strukturze-dowodzenia-oraz-rozwoj-wojsk-dronowych"
     },
     {
-      "headline": "\"Gazeta Wyborcza\" o nieprawidłowościach w śledztwie dot. syna Jacka Kurskiego",
-      "link": "https://www.pap.pl/aktualnosci/gazeta-wyborcza-o-nieprawidlowosciach-w-sledztwie-dot-syna-jacka-kurskiego"
+      "headline": "Izrael zbombardował syryjskie systemy obrony powietrznej w pobliżu portu w Latakii",
+      "link": "https://www.pap.pl/aktualnosci/izrael-zbombardowal-syryjskie-systemy-obrony-powietrznej-w-poblizu-portu-w-latakii"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
+      "headline": "Do antyrządowego protestu studentów w Serbii dołączyli rolnicy",
+      "link": "https://www.pap.pl/aktualnosci/do-antyrzadowego-protestu-studentow-w-serbii-dolaczyli-rolnicy"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
+      "headline": "Szef MSZ spotkał się z wicepremier Ukrainy ds. integracji europejskiej",
+      "link": "https://www.pap.pl/aktualnosci/szef-msz-spotkal-sie-z-wicepremier-ukrainy-ds-integracji-europejskiej"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
       "headline": "Kolejna noc protestów przeciwko rządowi w Tbilisi",
@@ -44,31 +68,7 @@
     {
       "headline": "Sport",
       "link": "https://www.pap.pl/list-of-articles/47"
-    },
-    {
-      "headline": "Hennig-Kloska o polskiej prezydencji: należy zamknąć rynek UE na rosyjskie surowce",
-      "link": "https://www.pap.pl/aktualnosci/hennig-kloska-o-polskiej-prezydencji-nalezy-zamknac-rynek-ue-na-rosyjskie-surowce-0"
-    },
-    {
-      "headline": "Kraj",
-      "link": "https://www.pap.pl/list-of-articles/43"
-    },
-    {
-      "headline": "\"To bardzo niebezpieczna gra\". Ekspert o odwołaniu wyborów w Rumunii",
-      "link": "https://www.pap.pl/aktualnosci/bardzo-niebezpieczna-gra-ekspert-o-odwolaniu-wyborow-w-rumunii"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "Wokalista Maneskin rozpocznie w Warszawie swoje pierwsze światowe solowe tournee",
-      "link": "https://www.pap.pl/aktualnosci/wokalista-maneskin-rozpocznie-w-warszawie-swoje-pierwsze-swiatowe-solowe-tournee"
-    },
-    {
-      "headline": "Kultura",
-      "link": "https://www.pap.pl/list-of-articles/45"
     }
   ],
-  "timestamp": "2024-12-09T19:11:13.321144"
+  "timestamp": "2024-12-09T20:16:01.395410"
 }
