@@ -2,6 +2,14 @@
   "title": "Pap",
   "headlines": [
     {
+      "headline": "Kaczyński o Nawrockim: pozapartyjny charakter jego kandydatury jest oczywisty",
+      "link": "https://www.pap.pl/aktualnosci/kaczynski-o-nawrockim-pozapartyjny-charakter-jego-kandydatury-jest-oczywisty"
+    },
+    {
+      "headline": "Osobiste archiwum premiera Tadeusza Mazowieckiego przekazane. Wśród dokumentów pełnomocnictwo od Lecha Wałęsy",
+      "link": "https://www.pap.pl/aktualnosci/osobiste-archiwum-premiera-tadeusza-mazowieckiego-przekazane-wsrod-dokumentow"
+    },
+    {
       "headline": "Wieczorek o awansie żony: porządkuję polską naukę i chyba to się komuś nie podoba",
       "link": "https://www.pap.pl/aktualnosci/wieczorek-o-awansie-zony-porzadkuje-polska-nauke-i-chyba-sie-komus-nie-podoba"
     },
@@ -22,12 +30,36 @@
       "link": "https://www.pap.pl/aktualnosci/komitet-do-spraw-bezpieczenstwa-narodowego-bedzie-omawiac-sytuacje-w-syrii"
     },
     {
-      "headline": "Zatrzymano 28-latka podejrzanego o podpalenie dyskontu. Straty liczone są w milionach",
-      "link": "https://www.pap.pl/aktualnosci/zatrzymano-28-latka-podejrzanego-o-podpalenie-dyskontu-straty-liczone-sa-w-milionach"
+      "headline": "Strajk pilotów w Finlandii. Państwowy przewoźnik odwołał 140 lotów",
+      "link": "https://www.pap.pl/aktualnosci/strajk-pilotow-w-finlandii-panstwowy-przewoznik-odwolal-140-lotow"
     },
     {
-      "headline": "Pijany funkcjonariusz SOP pobił ratowników medycznych. Usłyszał dwa zarzuty",
-      "link": "https://www.pap.pl/aktualnosci/pijany-funkcjonariusz-sop-pobil-ratownikow-medycznych-uslyszal-dwa-zarzuty"
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
+      "headline": "Dziesiątki tysięcy osób, w tym kobiety i dzieci, uwolniono z więzień w całej Syrii",
+      "link": "https://www.pap.pl/aktualnosci/dziesiatki-tysiecy-osob-w-tym-kobiety-i-dzieci-uwolniono-z-wiezien-w-calej-syrii"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
+      "headline": "Kaczyński o Nawrockim: pozapartyjny charakter jego kandydatury jest oczywisty",
+      "link": "https://www.pap.pl/aktualnosci/kaczynski-o-nawrockim-pozapartyjny-charakter-jego-kandydatury-jest-oczywisty"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
+    },
+    {
+      "headline": "Osobiste archiwum premiera Tadeusza Mazowieckiego przekazane. Wśród dokumentów pełnomocnictwo od Lecha Wałęsy",
+      "link": "https://www.pap.pl/aktualnosci/osobiste-archiwum-premiera-tadeusza-mazowieckiego-przekazane-wsrod-dokumentow"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
       "headline": "Wieczorek o awansie żony: porządkuję polską naukę i chyba to się komuś nie podoba",
@@ -36,39 +68,7 @@
     {
       "headline": "Kraj",
       "link": "https://www.pap.pl/list-of-articles/43"
-    },
-    {
-      "headline": "Syryjska federacja piłkarska zmieniła logo i kolor strojów reprezentacji",
-      "link": "https://www.pap.pl/aktualnosci/syryjska-federacja-pilkarska-zmienila-logo-i-kolor-strojow-reprezentacji"
-    },
-    {
-      "headline": "Sport",
-      "link": "https://www.pap.pl/list-of-articles/47"
-    },
-    {
-      "headline": "Głośna sprawa zabójstwa na Nowym Świecie. Turcja zgadza się na ekstradycję podejrzanego",
-      "link": "https://www.pap.pl/aktualnosci/glosna-sprawa-zabojstwa-na-nowym-swiecie-turcja-zgadza-sie-na-ekstradycje-podejrzanego"
-    },
-    {
-      "headline": "Kraj",
-      "link": "https://www.pap.pl/list-of-articles/43"
-    },
-    {
-      "headline": "Massive Attack kolejną gwiazdu festiwalu Open'er 2025",
-      "link": "https://www.pap.pl/aktualnosci/massive-attack-kolejna-gwiazdu-festiwalu-opener-2025-0"
-    },
-    {
-      "headline": "Kultura",
-      "link": "https://www.pap.pl/list-of-articles/45"
-    },
-    {
-      "headline": "Wybuch w rafinerii koło Florencji. Są ofiary śmiertelne i ranni",
-      "link": "https://www.pap.pl/aktualnosci/wybuch-w-rafinerii-kolo-florencji-sa-ofiary-smiertelne-i-ranni"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
     }
   ],
-  "timestamp": "2024-12-09T13:25:15.757473"
+  "timestamp": "2024-12-09T14:13:32.239774"
 }
