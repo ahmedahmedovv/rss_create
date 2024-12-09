@@ -2,6 +2,14 @@
   "title": "Pap",
   "headlines": [
     {
+      "headline": "Kto nowym prezesem TK? Wiadomo, kiedy prezydent ogłosi swoją decyzję",
+      "link": "https://www.pap.pl/aktualnosci/kto-nowym-prezesem-tk-wiadomo-kiedy-prezydent-oglosi-swoja-decyzje"
+    },
+    {
+      "headline": "Komitet do spraw Bezpieczeństwa Narodowego będzie omawiać sytuację w Syrii",
+      "link": "https://www.pap.pl/aktualnosci/komitet-do-spraw-bezpieczenstwa-narodowego-bedzie-omawiac-sytuacje-w-syrii"
+    },
+    {
       "headline": "Pijany funkcjonariusz SOP pobił ratowników medycznych. Usłyszał dwa zarzuty",
       "link": "https://www.pap.pl/aktualnosci/pijany-funkcjonariusz-sop-pobil-ratownikow-medycznych-uslyszal-dwa-zarzuty"
     },
@@ -22,53 +30,45 @@
       "link": "https://www.pap.pl/aktualnosci/czy-karol-nawrocki-jest-kandydatem-pis-najnowszy-sondaz"
     },
     {
-      "headline": "IMGW ostrzega: śnieg sypnie gęsto",
-      "link": "https://www.pap.pl/aktualnosci/imgw-ostrzega-snieg-sypnie-gesto"
-    },
-    {
-      "headline": "Poseł Romanowski zostanie aresztowany? Sąd rozpatrzy wniosek",
-      "link": "https://www.pap.pl/aktualnosci/posel-romanowski-zostanie-aresztowany-sad-rozpatrzy-wniosek"
-    },
-    {
-      "headline": "Pijany funkcjonariusz SOP pobił ratowników medycznych. Usłyszał dwa zarzuty",
-      "link": "https://www.pap.pl/aktualnosci/pijany-funkcjonariusz-sop-pobil-ratownikow-medycznych-uslyszal-dwa-zarzuty"
-    },
-    {
-      "headline": "Kraj",
-      "link": "https://www.pap.pl/list-of-articles/43"
-    },
-    {
-      "headline": "Perkusista Iron Maiden Nicko McBrain odchodzi na emeryturę",
-      "link": "https://www.pap.pl/aktualnosci/perkusista-iron-maiden-nicko-mcbrain-odchodzi-na-emeryture"
-    },
-    {
-      "headline": "Kultura",
-      "link": "https://www.pap.pl/list-of-articles/45"
-    },
-    {
-      "headline": "Zderzenie dwóch śmigłowców wojskowych w Turcji. Co najmniej pięć ofiar śmiertelnych",
-      "link": "https://www.pap.pl/aktualnosci/zderzenie-dwoch-smiglowcow-wojskowych-w-turcji-co-najmniej-piec-ofiar-smiertelnych"
+      "headline": "Jay-Z został oskarżony o gwałt na 13-latce. Raper wydał oświadczenie",
+      "link": "https://www.pap.pl/aktualnosci/jay-z-zostal-oskarzony-o-gwalt-na-13-latce-raper-wydal-oswiadczenie-0"
     },
     {
       "headline": "Świat",
       "link": "https://www.pap.pl/list-of-articles/48"
     },
     {
-      "headline": "Zimowa panorama Tatr [NASZE WIDEO]",
-      "link": "https://www.pap.pl/aktualnosci/zimowa-panorama-tatr-nasze-wideo"
+      "headline": "Kto nowym prezesem TK? Wiadomo, kiedy prezydent ogłosi swoją decyzję",
+      "link": "https://www.pap.pl/aktualnosci/kto-nowym-prezesem-tk-wiadomo-kiedy-prezydent-oglosi-swoja-decyzje"
     },
     {
       "headline": "Kraj",
       "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
-      "headline": "Figury świętych wracają na fasadę kościoła w Warszawie po 80 latach [NASZE WIDEO]",
-      "link": "https://www.pap.pl/aktualnosci/figury-swietych-wracaja-na-fasade-kosciola-w-warszawie-po-80-latach-nasze-wideo"
+      "headline": "\"Wstań i ruszaj się\". Nadmiar siedzenia szkodzi nawet młodym i aktywnym",
+      "link": "https://www.pap.pl/aktualnosci/wstan-i-ruszaj-sie-nadmiar-siedzenia-szkodzi-nawet-mlodym-i-aktywnym"
     },
     {
-      "headline": "Kultura",
-      "link": "https://www.pap.pl/list-of-articles/45"
+      "headline": "Nauka",
+      "link": "https://www.pap.pl/list-of-articles/46"
+    },
+    {
+      "headline": "Komitet do spraw Bezpieczeństwa Narodowego będzie omawiać sytuację w Syrii",
+      "link": "https://www.pap.pl/aktualnosci/komitet-do-spraw-bezpieczenstwa-narodowego-bedzie-omawiac-sytuacje-w-syrii"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
+    },
+    {
+      "headline": "Nad budynkiem ambasady Syrii w Moskwie pojawiła się flaga rebeliantów",
+      "link": "https://www.pap.pl/aktualnosci/nad-budynkiem-ambasady-syrii-w-moskwie-pojawila-sie-flaga-rebeliantow"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
     }
   ],
-  "timestamp": "2024-12-09T11:12:23.199916"
+  "timestamp": "2024-12-09T12:30:56.935855"
 }
