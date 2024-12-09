@@ -2,6 +2,30 @@
   "title": "Trt",
   "headlines": [
     {
+      "headline": "Borsa İstanbul haftaya yükselişle başladı",
+      "link": "https://www.trthaber.com/haber/ekonomi/borsa-istanbul-haftaya-yukselisle-basladi-891020.html"
+    },
+    {
+      "headline": "Adana'da kaçakçılık operasyonu: 342 milyon TL'lik vergi kaybının önüne geçildi",
+      "link": "https://www.trthaber.com/haber/turkiye/adanada-kacakcilik-operasyonu-342-milyon-tllik-vergi-kaybinin-onune-gecildi-891017.html"
+    },
+    {
+      "headline": "Artvin'de heyelanla kapanan yol için çalışmalar sürüyor",
+      "link": "https://www.trthaber.com/haber/turkiye/artvinde-heyelanla-kapanan-yol-icin-calismalar-suruyor-891016.html"
+    },
+    {
+      "headline": "Kabine toplantısı yoğun gündemle toplanacak",
+      "link": "https://www.trthaber.com/haber/gundem/kabine-toplantisi-yogun-gundemle-toplanacak-891014.html"
+    },
+    {
+      "headline": "Küresel piyasalarda gözler veri gündemine çevrildi",
+      "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-gozler-veri-gundemine-cevrildi-891013.html"
+    },
+    {
+      "headline": "Asgari ücret görüşmeleri başlıyor",
+      "link": "https://www.trthaber.com/haber/ekonomi/asgari-ucret-gorusmeleri-basliyor-891012.html"
+    },
+    {
       "headline": "21 un fabrikası denetlendi, 17 firmaya fahiş fiyat incelemesi başlatıldı",
       "link": "https://www.trthaber.com/haber/ekonomi/21-un-fabrikasi-denetlendi-17-firmaya-fahis-fiyat-incelemesi-baslatildi-891011.html"
     },
@@ -16,31 +40,7 @@
     {
       "headline": "Ankara'da 7 bin 650 uyuşturucu hap ele geçirildi",
       "link": "https://www.trthaber.com/haber/turkiye/ankarada-7-bin-650-uyusturucu-hap-ele-gecirildi-891007.html"
-    },
-    {
-      "headline": "Blinken: Esed rejimi siyasi süreci reddederek kendi yıkımına yol açtı",
-      "link": "https://www.trthaber.com/haber/dunya/blinken-esed-rejimi-siyasi-sureci-reddederek-kendi-yikimina-yol-acti-891006.html"
-    },
-    {
-      "headline": "İstanbul'da elektrikli araç yandı, bina tahliye edildi",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-elektrikli-arac-yandi-bina-tahliye-edildi-891005.html"
-    },
-    {
-      "headline": "TBMM'de bütçe maratonu bugün başlıyor",
-      "link": "https://www.trthaber.com/haber/gundem/tbmmde-butce-maratonu-bugun-basliyor-891004.html"
-    },
-    {
-      "headline": "Dünya Müslüman Alimler Birliğinden Cumhurbaşkanı Erdoğan'a övgü",
-      "link": "https://www.trthaber.com/haber/dunya/dunya-musluman-alimler-birliginden-cumhurbaskani-erdogana-ovgu-891003.html"
-    },
-    {
-      "headline": "Kolombiya'dan Gazze çağrısı",
-      "link": "https://www.trthaber.com/haber/dunya/kolombiyadan-gazze-cagrisi-891002.html"
-    },
-    {
-      "headline": "Katil İsrail'in Gazze'ye saldırılarında 8 Filistinli hayatını kaybetti",
-      "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-saldirilarinda-8-filistinli-hayatini-kaybetti-891001.html"
     }
   ],
-  "timestamp": "2024-12-09T06:20:33.863573"
+  "timestamp": "2024-12-09T07:14:21.139951"
 }
