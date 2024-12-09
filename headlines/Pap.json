@@ -2,6 +2,10 @@
   "title": "Pap",
   "headlines": [
     {
+      "headline": "Hennig-Kloska o polskiej prezydencji: należy zamknąć rynek UE na rosyjskie surowce",
+      "link": "https://www.pap.pl/aktualnosci/hennig-kloska-o-polskiej-prezydencji-nalezy-zamknac-rynek-ue-na-rosyjskie-surowce-0"
+    },
+    {
       "headline": "Trzaskowski czy Nawrocki? Jakie poparcie mieliby w drugiej turze?",
       "link": "https://www.pap.pl/aktualnosci/trzaskowski-czy-nawrocki-jakie-poparcie-mieliby-w-drugiej-turze"
     },
@@ -26,8 +30,28 @@
       "link": "https://www.pap.pl/aktualnosci/gazeta-wyborcza-o-nieprawidlowosciach-w-sledztwie-dot-syna-jacka-kurskiego"
     },
     {
-      "headline": "Rząd o likwidacji CBA i prezydencji Polski w Radzie UE",
-      "link": "https://www.pap.pl/aktualnosci/rzad-o-likwidacji-cba-i-prezydencji-polski-w-radzie-ue"
+      "headline": "Kolejna noc protestów przeciwko rządowi w Tbilisi",
+      "link": "https://www.pap.pl/aktualnosci/kolejna-noc-protestow-przeciwko-rzadowi-w-tbilisi"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
+      "headline": "FC Barcelona zagra z byłym klubem Lewandowskiego. Media o zmęczeniu drużyny",
+      "link": "https://www.pap.pl/aktualnosci/fc-barcelona-zagra-z-bylym-klubem-lewandowskiego-media-o-zmeczeniu-druzyny"
+    },
+    {
+      "headline": "Sport",
+      "link": "https://www.pap.pl/list-of-articles/47"
+    },
+    {
+      "headline": "Hennig-Kloska o polskiej prezydencji: należy zamknąć rynek UE na rosyjskie surowce",
+      "link": "https://www.pap.pl/aktualnosci/hennig-kloska-o-polskiej-prezydencji-nalezy-zamknac-rynek-ue-na-rosyjskie-surowce-0"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
       "headline": "\"To bardzo niebezpieczna gra\". Ekspert o odwołaniu wyborów w Rumunii",
@@ -44,31 +68,7 @@
     {
       "headline": "Kultura",
       "link": "https://www.pap.pl/list-of-articles/45"
-    },
-    {
-      "headline": "Zełenski o sytuacji w Syrii: reżim upadł, bo nie było tam \"prawdziwych\" rosyjskich wojsk",
-      "link": "https://www.pap.pl/aktualnosci/zelenski-o-sytuacji-w-syrii-rezim-upadl-bo-nie-bylo-tam-prawdziwych-rosyjskich-wojsk"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "Trzaskowski czy Nawrocki? Jakie poparcie mieliby w drugiej turze?",
-      "link": "https://www.pap.pl/aktualnosci/trzaskowski-czy-nawrocki-jakie-poparcie-mieliby-w-drugiej-turze"
-    },
-    {
-      "headline": "Kraj",
-      "link": "https://www.pap.pl/list-of-articles/43"
-    },
-    {
-      "headline": "Po upadku reżimu Asada. Co zrobi Turcja?",
-      "link": "https://www.pap.pl/aktualnosci/po-upadku-rezimu-asada-co-zrobi-turcja"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
     }
   ],
-  "timestamp": "2024-12-09T18:19:42.801493"
+  "timestamp": "2024-12-09T19:11:13.321144"
 }
