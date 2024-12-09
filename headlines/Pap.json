@@ -2,6 +2,14 @@
   "title": "Pap",
   "headlines": [
     {
+      "headline": "Siemoniak: nie ma środków na 15-proc. podwyżki dla policjantów",
+      "link": "https://www.pap.pl/aktualnosci/siemoniak-nie-ma-srodkow-na-15-proc-podwyzki-dla-policjantow-0"
+    },
+    {
+      "headline": "Media: finalizacja umowy z Polską na eksport czołgów K2 może się opóźnić",
+      "link": "https://www.pap.pl/aktualnosci/media-finalizacja-umowy-z-polska-na-eksport-czolgow-k2-moze-sie-opoznic"
+    },
+    {
       "headline": "Czy Karol Nawrocki jest kandydatem PiS? Najnowszy sondaż",
       "link": "https://www.pap.pl/aktualnosci/czy-karol-nawrocki-jest-kandydatem-pis-najnowszy-sondaz"
     },
@@ -22,53 +30,45 @@
       "link": "https://www.pap.pl/aktualnosci/wiceminister-sprawiedliwosci-orzeczenia-trybunalu-maja-dzis-zerowe-znaczenie"
     },
     {
-      "headline": "Rektor UKSW poinformował o śmierci prof. Mirosława Kurkowskiego. Naukowiec zaginął kilka dni temu",
-      "link": "https://www.pap.pl/aktualnosci/rektor-uksw-poinformowal-o-smierci-prof-miroslawa-kurkowskiego-naukowiec-zaginal-kilka"
+      "headline": "Pogrzeb Lucjana Brychczego. Tłumy żegnają legendę Legii Warszawa",
+      "link": "https://www.pap.pl/aktualnosci/pogrzeb-lucjana-brychczego-tlumy-zegnaja-legende-legii-warszawa"
     },
     {
-      "headline": "Rząd reaguje na wydarzenia w Syrii. Jest tam 130 Polaków",
-      "link": "https://www.pap.pl/aktualnosci/rzad-reaguje-na-wydarzenia-w-syrii-jest-tam-130-polakow"
+      "headline": "Sport",
+      "link": "https://www.pap.pl/list-of-articles/47"
     },
     {
-      "headline": "Gość Studia PAP: prof. Rafał Chwedoruk, politolog",
-      "link": "https://www.pap.pl/aktualnosci/gosc-studia-pap-prof-rafal-chwedoruk-politolog"
+      "headline": "Siemoniak: nie ma środków na 15-proc. podwyżki dla policjantów",
+      "link": "https://www.pap.pl/aktualnosci/siemoniak-nie-ma-srodkow-na-15-proc-podwyzki-dla-policjantow-0"
     },
     {
-      "headline": "Studio PAP",
-      "link": "https://www.pap.pl/list-of-articles/61811"
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
-      "headline": "Firmowy Mikołaj często skromniejszy",
-      "link": "https://www.pap.pl/aktualnosci/firmowy-mikolaj-czesto-skromniejszy"
-    },
-    {
-      "headline": "Gospodarka",
-      "link": "https://www.pap.pl/list-of-articles/41"
-    },
-    {
-      "headline": "Prezydent Jun z zakazem opuszczania kraju? Policja zdecyduje",
-      "link": "https://www.pap.pl/aktualnosci/prezydent-jun-z-zakazem-opuszczania-kraju-policja-zdecyduje"
+      "headline": "Wspierana przez Turcję Syryjska Armia Narodowa zdobyła Manbidż",
+      "link": "https://www.pap.pl/aktualnosci/wspierana-przez-turcje-syryjska-armia-narodowa-zdobyla-manbidz"
     },
     {
       "headline": "Świat",
       "link": "https://www.pap.pl/list-of-articles/48"
     },
     {
-      "headline": "Czy Karol Nawrocki jest kandydatem PiS? Najnowszy sondaż",
-      "link": "https://www.pap.pl/aktualnosci/czy-karol-nawrocki-jest-kandydatem-pis-najnowszy-sondaz"
+      "headline": "Media: finalizacja umowy z Polską na eksport czołgów K2 może się opóźnić",
+      "link": "https://www.pap.pl/aktualnosci/media-finalizacja-umowy-z-polska-na-eksport-czolgow-k2-moze-sie-opoznic"
     },
     {
       "headline": "Kraj",
       "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
-      "headline": "IMGW ostrzega: śnieg sypnie gęsto",
-      "link": "https://www.pap.pl/aktualnosci/imgw-ostrzega-snieg-sypnie-gesto"
+      "headline": "Prof. Rafał Chwedoruk: PiS musi ponownie wejść na szlak długiego marszu i odzyskać młodych wyborców",
+      "link": "https://www.pap.pl/aktualnosci/prof-rafal-chwedoruk-pis-musi-ponownie-wejsc-na-szlak-dlugiego-marszu-i-odzyskac"
     },
     {
-      "headline": "Kraj",
-      "link": "https://www.pap.pl/list-of-articles/43"
+      "headline": "Studio PAP",
+      "link": "https://www.pap.pl/list-of-articles/61811"
     }
   ],
-  "timestamp": "2024-12-09T09:16:04.039634"
+  "timestamp": "2024-12-09T10:15:55.162152"
 }
