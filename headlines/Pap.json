@@ -2,6 +2,10 @@
   "title": "Pap",
   "headlines": [
     {
+      "headline": "Czy doszło do porozumienia w sprawie lekcji religii? Mowa o krokach prawnych ze strony kościelnej",
+      "link": "https://www.pap.pl/aktualnosci/czy-doszlo-do-porozumienia-w-sprawie-lekcji-religii-mowa-o-krokach-prawnych-ze-strony"
+    },
+    {
       "headline": "Szef MSZ spotkał się z wicepremier Ukrainy ds. integracji europejskiej",
       "link": "https://www.pap.pl/aktualnosci/szef-msz-spotkal-sie-z-wicepremier-ukrainy-ds-integracji-europejskiej"
     },
@@ -26,8 +30,28 @@
       "link": "https://www.pap.pl/aktualnosci/nozownik-z-grodziska-mazowieckiego-aresztowany"
     },
     {
-      "headline": "MON i dowódcy: kluczowe zmiany w strukturze dowodzenia oraz rozwój wojsk dronowych",
-      "link": "https://www.pap.pl/aktualnosci/mon-i-dowodcy-kluczowe-zmiany-w-strukturze-dowodzenia-oraz-rozwoj-wojsk-dronowych"
+      "headline": "Czy doszło do porozumienia w sprawie lekcji religii? Mowa o krokach prawnych ze strony kościelnej",
+      "link": "https://www.pap.pl/aktualnosci/czy-doszlo-do-porozumienia-w-sprawie-lekcji-religii-mowa-o-krokach-prawnych-ze-strony"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
+    },
+    {
+      "headline": "Sekretarz stanu USA zabrał głos po upadku reżimu Asada. \"Porażka Iranu i Rosji\"",
+      "link": "https://www.pap.pl/aktualnosci/sekretarz-stanu-usa-zabral-glos-po-upadku-rezimu-asada-porazka-iranu-i-rosji"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
+      "headline": "Średniowieczne manuskrypty znalezione na śmietniku w Portugalii",
+      "link": "https://www.pap.pl/aktualnosci/sredniowieczne-manuskrypty-znalezione-na-smietniku-w-portugalii"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
     },
     {
       "headline": "Komisarz UE ds. rolnictwa: umowa z Mercosurem zawiera wiele klauzul ochronnych dla rolników",
@@ -44,31 +68,7 @@
     {
       "headline": "Kultura",
       "link": "https://www.pap.pl/list-of-articles/45"
-    },
-    {
-      "headline": "Zabójstwo szefa UnitedHealthcare. Policja w Pensylwanii aresztowała podejrzanego",
-      "link": "https://www.pap.pl/aktualnosci/zabojstwo-szefa-unitedhealthcare-policja-w-pensylwanii-aresztowala-podejrzanego"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "Izrael zbombardował syryjskie systemy obrony powietrznej w pobliżu portu w Latakii",
-      "link": "https://www.pap.pl/aktualnosci/izrael-zbombardowal-syryjskie-systemy-obrony-powietrznej-w-poblizu-portu-w-latakii"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "Do antyrządowego protestu studentów w Serbii dołączyli rolnicy",
-      "link": "https://www.pap.pl/aktualnosci/do-antyrzadowego-protestu-studentow-w-serbii-dolaczyli-rolnicy"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
     }
   ],
-  "timestamp": "2024-12-09T21:13:11.714972"
+  "timestamp": "2024-12-09T22:13:13.710968"
 }
