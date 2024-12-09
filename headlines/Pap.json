@@ -2,73 +2,73 @@
   "title": "Pap",
   "headlines": [
     {
-      "headline": "\"Gazeta Wyborcza\" o nieprawidłowościach w śledztwie dot. syna Jacka Kurskiego",
-      "link": "https://www.pap.pl/aktualnosci/gazeta-wyborcza-o-nieprawidlowosciach-w-sledztwie-dot-syna-jacka-kurskiego"
+      "headline": "Noworodek w oknie życia w Koszalinie",
+      "link": "https://www.pap.pl/aktualnosci/noworodek-w-oknie-zycia-w-koszalinie"
     },
     {
-      "headline": "Jest areszt dla posła PiS Marcina Romanowskiego",
-      "link": "https://www.pap.pl/aktualnosci/jest-areszt-dla-posla-pis-marcina-romanowskiego"
+      "headline": "Czasowe zawieszenie prawa do azylu. Na czym ma polegać i kogo dotyczyć?",
+      "link": "https://www.pap.pl/aktualnosci/czasowe-zawieszenie-prawa-do-azylu-na-czym-ma-polegac-i-kogo-dotyczyc"
     },
     {
-      "headline": "Atak hakerski na stronę internetową Muzeum Armii Krajowej",
-      "link": "https://www.pap.pl/aktualnosci/atak-hakerski-na-strone-internetowa-muzeum-armii-krajowej"
+      "headline": "Nożownik z Grodziska Mazowieckiego aresztowany",
+      "link": "https://www.pap.pl/aktualnosci/nozownik-z-grodziska-mazowieckiego-aresztowany"
     },
     {
-      "headline": "Jakie byłoby poparcie w drugiej turze wyborów prezydenckich? Najnowszy sondaż",
-      "link": "https://www.pap.pl/aktualnosci/jakie-byloby-poparcie-w-drugiej-turze-wyborow-prezydenckich-najnowszy-sondaz"
-    },
-    {
-      "headline": "Szef MON komentuje słowa Trumpa. \"Możemy pokazać współpracę na najwyższym poziomie\"",
-      "link": "https://www.pap.pl/aktualnosci/szef-mon-komentuje-slowa-trumpa-mozemy-pokazac-wspolprace-na-najwyzszym-poziomie"
-    },
-    {
-      "headline": "Śmierć prof. Mirosława Kurkowskiego. Prokuratura rozpoczyna śledztwo",
-      "link": "https://www.pap.pl/aktualnosci/smierc-prof-miroslawa-kurkowskiego-prokuratura-rozpoczyna-sledztwo"
-    },
-    {
-      "headline": "Sikorski: mam nadzieję, że prezydent Duda nie dopuści do opuszczenia NATO przez USA",
-      "link": "https://www.pap.pl/aktualnosci/sikorski-mam-nadzieje-ze-prezydent-duda-nie-dopusci-do-opuszczenia-nato-przez-usa"
-    },
-    {
-      "headline": "Mikołaje na nartach w szczytnym celu [WIDEO]",
-      "link": "https://www.pap.pl/aktualnosci/mikolaje-na-nartach-w-szczytnym-celu-wideo"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
+      "headline": "MON i dowódcy: kluczowe zmiany w strukturze dowodzenia oraz rozwój wojsk dronowych",
+      "link": "https://www.pap.pl/aktualnosci/mon-i-dowodcy-kluczowe-zmiany-w-strukturze-dowodzenia-oraz-rozwoj-wojsk-dronowych"
     },
     {
       "headline": "\"Gazeta Wyborcza\" o nieprawidłowościach w śledztwie dot. syna Jacka Kurskiego",
       "link": "https://www.pap.pl/aktualnosci/gazeta-wyborcza-o-nieprawidlowosciach-w-sledztwie-dot-syna-jacka-kurskiego"
     },
     {
-      "headline": "Kraj",
-      "link": "https://www.pap.pl/list-of-articles/43"
-    },
-    {
-      "headline": "Najpopularniejsze hasła Wikipedii 2024 roku. Co wyszukiwali internauci?",
-      "link": "https://www.pap.pl/aktualnosci/najpopularniejsze-hasla-wikipedii-2024-roku-co-wyszukiwali-internauci"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
+      "headline": "Rząd o likwidacji CBA i prezydencji Polski w Radzie UE",
+      "link": "https://www.pap.pl/aktualnosci/rzad-o-likwidacji-cba-i-prezydencji-polski-w-radzie-ue"
     },
     {
       "headline": "Jest areszt dla posła PiS Marcina Romanowskiego",
       "link": "https://www.pap.pl/aktualnosci/jest-areszt-dla-posla-pis-marcina-romanowskiego"
     },
     {
+      "headline": "Noworodek w oknie życia w Koszalinie",
+      "link": "https://www.pap.pl/aktualnosci/noworodek-w-oknie-zycia-w-koszalinie"
+    },
+    {
       "headline": "Kraj",
       "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
-      "headline": "Białorusinka Aryna Sabalenka wybrana tenisistką roku WTA",
-      "link": "https://www.pap.pl/aktualnosci/bialorusinka-aryna-sabalenka-wybrana-tenisistka-roku-wta"
+      "headline": "Czasowe zawieszenie prawa do azylu. Na czym ma polegać i kogo dotyczyć?",
+      "link": "https://www.pap.pl/aktualnosci/czasowe-zawieszenie-prawa-do-azylu-na-czym-ma-polegac-i-kogo-dotyczyc"
     },
     {
-      "headline": "Sport",
-      "link": "https://www.pap.pl/list-of-articles/47"
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
+    },
+    {
+      "headline": "Nożownik z Grodziska Mazowieckiego aresztowany",
+      "link": "https://www.pap.pl/aktualnosci/nozownik-z-grodziska-mazowieckiego-aresztowany"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
+    },
+    {
+      "headline": "MON i dowódcy: kluczowe zmiany w strukturze dowodzenia oraz rozwój wojsk dronowych",
+      "link": "https://www.pap.pl/aktualnosci/mon-i-dowodcy-kluczowe-zmiany-w-strukturze-dowodzenia-oraz-rozwoj-wojsk-dronowych"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
+    },
+    {
+      "headline": "Była kandydatka na prezydenta Rumunii napisała list do Trumpa. W jej partii niezadowolenie",
+      "link": "https://www.pap.pl/aktualnosci/byla-kandydatka-na-prezydenta-rumunii-napisala-list-do-trumpa-w-jej-partii"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
     }
   ],
-  "timestamp": "2024-12-09T16:18:09.772655"
+  "timestamp": "2024-12-09T17:12:44.213283"
 }
