@@ -2,6 +2,22 @@
   "title": "Pap",
   "headlines": [
     {
+      "headline": "\"Gazeta Wyborcza\" o nieprawidłowościach w śledztwie dot. syna Jacka Kurskiego",
+      "link": "https://www.pap.pl/aktualnosci/gazeta-wyborcza-o-nieprawidlowosciach-w-sledztwie-dot-syna-jacka-kurskiego"
+    },
+    {
+      "headline": "Jest areszt dla posła PiS Marcina Romanowskiego",
+      "link": "https://www.pap.pl/aktualnosci/jest-areszt-dla-posla-pis-marcina-romanowskiego"
+    },
+    {
+      "headline": "Atak hakerski na stronę internetową Muzeum Armii Krajowej",
+      "link": "https://www.pap.pl/aktualnosci/atak-hakerski-na-strone-internetowa-muzeum-armii-krajowej"
+    },
+    {
+      "headline": "Jakie byłoby poparcie w drugiej turze wyborów prezydenckich? Najnowszy sondaż",
+      "link": "https://www.pap.pl/aktualnosci/jakie-byloby-poparcie-w-drugiej-turze-wyborow-prezydenckich-najnowszy-sondaz"
+    },
+    {
       "headline": "Szef MON komentuje słowa Trumpa. \"Możemy pokazać współpracę na najwyższym poziomie\"",
       "link": "https://www.pap.pl/aktualnosci/szef-mon-komentuje-slowa-trumpa-mozemy-pokazac-wspolprace-na-najwyzszym-poziomie"
     },
@@ -14,61 +30,45 @@
       "link": "https://www.pap.pl/aktualnosci/sikorski-mam-nadzieje-ze-prezydent-duda-nie-dopusci-do-opuszczenia-nato-przez-usa"
     },
     {
-      "headline": "Kaczyński o Nawrockim: pozapartyjny charakter jego kandydatury jest oczywisty",
-      "link": "https://www.pap.pl/aktualnosci/kaczynski-o-nawrockim-pozapartyjny-charakter-jego-kandydatury-jest-oczywisty"
-    },
-    {
-      "headline": "Osobiste archiwum premiera Tadeusza Mazowieckiego przekazane. Wśród dokumentów pełnomocnictwo od Lecha Wałęsy",
-      "link": "https://www.pap.pl/aktualnosci/osobiste-archiwum-premiera-tadeusza-mazowieckiego-przekazane-wsrod-dokumentow"
-    },
-    {
-      "headline": "Wieczorek o awansie żony: porządkuję polską naukę i chyba to się komuś nie podoba",
-      "link": "https://www.pap.pl/aktualnosci/wieczorek-o-awansie-zony-porzadkuje-polska-nauke-i-chyba-sie-komus-nie-podoba"
-    },
-    {
-      "headline": "Głośna sprawa zabójstwa na Nowym Świecie. Turcja zgadza się na ekstradycję podejrzanego",
-      "link": "https://www.pap.pl/aktualnosci/glosna-sprawa-zabojstwa-na-nowym-swiecie-turcja-zgadza-sie-na-ekstradycje-podejrzanego"
-    },
-    {
-      "headline": "Szef MON komentuje słowa Trumpa. \"Możemy pokazać współpracę na najwyższym poziomie\"",
-      "link": "https://www.pap.pl/aktualnosci/szef-mon-komentuje-slowa-trumpa-mozemy-pokazac-wspolprace-na-najwyzszym-poziomie"
-    },
-    {
-      "headline": "Kraj",
-      "link": "https://www.pap.pl/list-of-articles/43"
-    },
-    {
-      "headline": "Macron przyleci do Polski? Ma spotkać się z premierem i prezydentem",
-      "link": "https://www.pap.pl/aktualnosci/macron-przyleci-do-polski-ma-spotkac-sie-z-premierem-i-prezydentem"
+      "headline": "Mikołaje na nartach w szczytnym celu [WIDEO]",
+      "link": "https://www.pap.pl/aktualnosci/mikolaje-na-nartach-w-szczytnym-celu-wideo"
     },
     {
       "headline": "Świat",
       "link": "https://www.pap.pl/list-of-articles/48"
     },
     {
-      "headline": "Śmierć prof. Mirosława Kurkowskiego. Prokuratura rozpoczyna śledztwo",
-      "link": "https://www.pap.pl/aktualnosci/smierc-prof-miroslawa-kurkowskiego-prokuratura-rozpoczyna-sledztwo"
+      "headline": "\"Gazeta Wyborcza\" o nieprawidłowościach w śledztwie dot. syna Jacka Kurskiego",
+      "link": "https://www.pap.pl/aktualnosci/gazeta-wyborcza-o-nieprawidlowosciach-w-sledztwie-dot-syna-jacka-kurskiego"
     },
     {
       "headline": "Kraj",
       "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
-      "headline": "Sikorski: mam nadzieję, że prezydent Duda nie dopuści do opuszczenia NATO przez USA",
-      "link": "https://www.pap.pl/aktualnosci/sikorski-mam-nadzieje-ze-prezydent-duda-nie-dopusci-do-opuszczenia-nato-przez-usa"
+      "headline": "Najpopularniejsze hasła Wikipedii 2024 roku. Co wyszukiwali internauci?",
+      "link": "https://www.pap.pl/aktualnosci/najpopularniejsze-hasla-wikipedii-2024-roku-co-wyszukiwali-internauci"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
+      "headline": "Jest areszt dla posła PiS Marcina Romanowskiego",
+      "link": "https://www.pap.pl/aktualnosci/jest-areszt-dla-posla-pis-marcina-romanowskiego"
     },
     {
       "headline": "Kraj",
       "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
-      "headline": "Polski akcent na Złotych Globach. \"Dziewczyna z igłą\" otrzymała nominację",
-      "link": "https://www.pap.pl/aktualnosci/polski-akcent-na-zlotych-globach-dziewczyna-z-igla-otrzymala-nominacje"
+      "headline": "Białorusinka Aryna Sabalenka wybrana tenisistką roku WTA",
+      "link": "https://www.pap.pl/aktualnosci/bialorusinka-aryna-sabalenka-wybrana-tenisistka-roku-wta"
     },
     {
-      "headline": "Kultura",
-      "link": "https://www.pap.pl/list-of-articles/45"
+      "headline": "Sport",
+      "link": "https://www.pap.pl/list-of-articles/47"
     }
   ],
-  "timestamp": "2024-12-09T15:15:04.509753"
+  "timestamp": "2024-12-09T16:18:09.772655"
 }
