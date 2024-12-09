@@ -2,6 +2,26 @@
   "title": "Trt",
   "headlines": [
     {
+      "headline": "Dünya Müslüman Alimler Birliğinden Cumhurbaşkanı Erdoğan'a övgü",
+      "link": "https://www.trthaber.com/haber/dunya/dunya-musluman-alimler-birliginden-cumhurbaskani-erdogana-ovgu-891003.html"
+    },
+    {
+      "headline": "Kolombiya'dan Gazze çağrısı",
+      "link": "https://www.trthaber.com/haber/dunya/kolombiyadan-gazze-cagrisi-891002.html"
+    },
+    {
+      "headline": "Katil İsrail'in Gazze'ye saldırılarında 8 Filistinli hayatını kaybetti",
+      "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-saldirilarinda-8-filistinli-hayatini-kaybetti-891001.html"
+    },
+    {
+      "headline": "Artvin'de kontrolden çıkan araç dereye uçtu: 1 ölü, 2 yaralı",
+      "link": "https://www.trthaber.com/haber/turkiye/artvinde-kontrolden-cikan-arac-dereye-uctu-1-olu-2-yarali-891000.html"
+    },
+    {
+      "headline": "Şişli'de polis eğlence mekanlarını denetledi",
+      "link": "https://www.trthaber.com/haber/turkiye/sislide-polis-eglence-mekanlarini-denetledi-890999.html"
+    },
+    {
       "headline": "Sudan'da Hızlı Destek Kuvvetlerinin saldırısında 9 kişi öldü",
       "link": "https://www.trthaber.com/haber/dunya/sudanda-hizli-destek-kuvvetlerinin-saldirisinda-9-kisi-oldu-890998.html"
     },
@@ -20,27 +40,7 @@
     {
       "headline": "Artvin'de kapanan Karadeniz Sahil Yolu tek şeritten ulaşıma açıldı",
       "link": "https://www.trthaber.com/haber/turkiye/artvinde-kapanan-karadeniz-sahil-yolu-tek-seritten-ulasima-acildi-890994.html"
-    },
-    {
-      "headline": "Eskişehir'de devrilen otomobildeki 1 kişi öldü, 3 kişi yaralandı",
-      "link": "https://www.trthaber.com/haber/turkiye/eskisehirde-devrilen-otomobildeki-1-kisi-oldu-3-kisi-yaralandi-890993.html"
-    },
-    {
-      "headline": "Suriyeliler Şam'a akın ediyor",
-      "link": "https://www.trthaber.com/haber/dunya/suriyeliler-sama-akin-ediyor-890992.html"
-    },
-    {
-      "headline": "Ankara'da kamyonet kasasındaki buzdolabında 15 kilo uyuşturucu ele geçirildi",
-      "link": "https://www.trthaber.com/haber/turkiye/ankarada-kamyonet-kasasindaki-buzdolabinda-15-kilo-uyusturucu-ele-gecirildi-890991.html"
-    },
-    {
-      "headline": "Esed ve ailesi Moskova’da: Rusya sığınma hakkı tanıdı",
-      "link": "https://www.trthaber.com/haber/dunya/esed-ve-ailesi-moskovada-rusya-siginma-hakki-tanidi-890990.html"
-    },
-    {
-      "headline": "Cumhurbaşkanı Erdoğan: UCM'nin Netanyahu kararı çok önemli",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-ucmnin-netanyahu-karari-cok-onemli-890989.html"
     }
   ],
-  "timestamp": "2024-12-09T01:09:02.755632"
+  "timestamp": "2024-12-09T03:02:19.624125"
 }
