@@ -2,6 +2,10 @@
   "title": "Pap",
   "headlines": [
     {
+      "headline": "Prezydent podpisał nowelizację ustawy o pomocy osobom uprawnionym do alimentów",
+      "link": "https://www.pap.pl/aktualnosci/prezydent-podpisal-nowelizacje-ustawy-o-pomocy-osobom-uprawnionym-do-alimentow"
+    },
+    {
       "headline": "Radosław Sikorski dziękuje prezydentowi. Chodzi o zmianę przepisów",
       "link": "https://www.pap.pl/aktualnosci/radoslaw-sikorski-dziekuje-prezydentowi-chodzi-o-zmiane-przepisow"
     },
@@ -26,8 +30,12 @@
       "link": "https://www.pap.pl/aktualnosci/polska-wstrzymuje-wydawanie-decyzji-dla-obywateli-syrii-chodzi-o-ochrone-miedzynarodowa"
     },
     {
-      "headline": "Jak Polacy oceniają pracę urzędników? Badanie CBOS",
-      "link": "https://www.pap.pl/aktualnosci/jak-polacy-oceniaja-prace-urzednikow-badanie-cbos"
+      "headline": "Wręczono Nagrody Nobla w pięciu dziedzinach. Gościem specjalnym była Olga Tokarczuk",
+      "link": "https://www.pap.pl/aktualnosci/wreczono-nagrody-nobla-w-pieciu-dziedzinach-gosciem-specjalnym-byla-olga-tokarczuk"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
     },
     {
       "headline": "Przeprowadzono udany test amerykańskiej tarczy antyrakietowej Aegis",
@@ -36,6 +44,14 @@
     {
       "headline": "Świat",
       "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
+      "headline": "Prezydent podpisał nowelizację ustawy o pomocy osobom uprawnionym do alimentów",
+      "link": "https://www.pap.pl/aktualnosci/prezydent-podpisal-nowelizacje-ustawy-o-pomocy-osobom-uprawnionym-do-alimentow"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
       "headline": "Radosław Sikorski dziękuje prezydentowi. Chodzi o zmianę przepisów",
@@ -52,23 +68,7 @@
     {
       "headline": "Sport",
       "link": "https://www.pap.pl/list-of-articles/47"
-    },
-    {
-      "headline": "Zamrożenie cen prądu. Jest decyzja prezydenta",
-      "link": "https://www.pap.pl/aktualnosci/zamrozenie-cen-pradu-jest-decyzja-prezydenta"
-    },
-    {
-      "headline": "Gospodarka",
-      "link": "https://www.pap.pl/list-of-articles/41"
-    },
-    {
-      "headline": "W gdańskiej stoczni \"Remontowa\" zwodowano drugi prom RoPax [NASZE WIDEO]",
-      "link": "https://www.pap.pl/aktualnosci/w-gdanskiej-stoczni-remontowa-zwodowano-drugi-prom-ropax-nasze-wideo"
-    },
-    {
-      "headline": "Kraj",
-      "link": "https://www.pap.pl/list-of-articles/43"
     }
   ],
-  "timestamp": "2024-12-10T18:19:37.032272"
+  "timestamp": "2024-12-10T19:11:23.156955"
 }
