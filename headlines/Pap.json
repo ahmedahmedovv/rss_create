@@ -2,6 +2,14 @@
   "title": "Pap",
   "headlines": [
     {
+      "headline": "Kaczyński na miesięcznicy smoleńskiej. Padły słowa o \"agenturze Putina\"",
+      "link": "https://www.pap.pl/aktualnosci/kaczynski-na-miesiecznicy-smolenskiej-padly-slowa-o-agenturze-putina"
+    },
+    {
+      "headline": "Handlowali kundelkami na bazarze. Usłyszeli zarzuty [ZDJĘCIA]",
+      "link": "https://www.pap.pl/aktualnosci/handlowali-kundelkami-na-bazarze-uslyszeli-zarzuty-zdjecia"
+    },
+    {
       "headline": "Zygmunt Solorz przegrał w sądzie ze swoimi dziećmi. Majątek miliardera zablokowany",
       "link": "https://www.pap.pl/aktualnosci/zygmunt-solorz-przegral-w-sadzie-ze-swoimi-dziecmi-majatek-miliardera-zablokowany"
     },
@@ -22,20 +30,36 @@
       "link": "https://www.pap.pl/aktualnosci/sondaz-poparcia-ktore-partie-ciesza-sie-najwiekszym-zaufaniem"
     },
     {
-      "headline": "Czy doszło do porozumienia w sprawie lekcji religii? Mowa o krokach prawnych ze strony kościelnej",
-      "link": "https://www.pap.pl/aktualnosci/czy-doszlo-do-porozumienia-w-sprawie-lekcji-religii-mowa-o-krokach-prawnych-ze-strony"
+      "headline": "Kaczyński na miesięcznicy smoleńskiej. Padły słowa o \"agenturze Putina\"",
+      "link": "https://www.pap.pl/aktualnosci/kaczynski-na-miesiecznicy-smolenskiej-padly-slowa-o-agenturze-putina"
     },
     {
-      "headline": "Szef MSZ spotkał się z wicepremier Ukrainy ds. integracji europejskiej",
-      "link": "https://www.pap.pl/aktualnosci/szef-msz-spotkal-sie-z-wicepremier-ukrainy-ds-integracji-europejskiej"
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
-      "headline": "Gość Studia PAP: Adam Andruszkiewicz, poseł PiS",
-      "link": "https://www.pap.pl/aktualnosci/gosc-studia-pap-adam-andruszkiewicz-posel-pis"
+      "headline": "Do czterech wzrosła liczba ofiar śmiertelnych wybuchu w rafinerii koło Florencji",
+      "link": "https://www.pap.pl/aktualnosci/do-czterech-wzrosla-liczba-ofiar-smiertelnych-wybuchu-w-rafinerii-kolo-florencji"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
+      "headline": "Adam Andruszkiewicz: internet stanie się fundamentem naszej kampanii wyborczej",
+      "link": "https://www.pap.pl/aktualnosci/adam-andruszkiewicz-internet-stanie-sie-fundamentem-naszej-kampanii-wyborczej"
     },
     {
       "headline": "Studio PAP",
       "link": "https://www.pap.pl/list-of-articles/61811"
+    },
+    {
+      "headline": "Handlowali kundelkami na bazarze. Usłyszeli zarzuty [ZDJĘCIA]",
+      "link": "https://www.pap.pl/aktualnosci/handlowali-kundelkami-na-bazarze-uslyszeli-zarzuty-zdjecia"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
       "headline": "Zygmunt Solorz przegrał w sądzie ze swoimi dziećmi. Majątek miliardera zablokowany",
@@ -44,31 +68,7 @@
     {
       "headline": "Kraj",
       "link": "https://www.pap.pl/list-of-articles/43"
-    },
-    {
-      "headline": "Zmiany w prawie karnym. Szef MSW o planach Bodnara: skrajnie liberalne, niezrozumiałe",
-      "link": "https://www.pap.pl/aktualnosci/zmiany-w-prawie-karnym-szef-msw-o-planach-bodnara-skrajnie-liberalne-niezrozumiale"
-    },
-    {
-      "headline": "Kraj",
-      "link": "https://www.pap.pl/list-of-articles/43"
-    },
-    {
-      "headline": "Prokurator krajowy: Romanowski może przebywać w areszcie wyposażonym w opiekę medyczną",
-      "link": "https://www.pap.pl/aktualnosci/prokurator-krajowy-romanowski-moze-przebywac-w-areszcie-wyposazonym-w-opieke-medyczna"
-    },
-    {
-      "headline": "Kraj",
-      "link": "https://www.pap.pl/list-of-articles/43"
-    },
-    {
-      "headline": "Nawrocki czy Trzaskowski - kto prowadzi w sondażach przedwyborczych?",
-      "link": "https://www.pap.pl/aktualnosci/nawrocki-czy-trzaskowski-kto-prowadzi-w-sondazach-przedwyborczych"
-    },
-    {
-      "headline": "Kraj",
-      "link": "https://www.pap.pl/list-of-articles/43"
     }
   ],
-  "timestamp": "2024-12-10T09:15:41.131367"
+  "timestamp": "2024-12-10T10:15:23.889797"
 }
