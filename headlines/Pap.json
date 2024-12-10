@@ -2,6 +2,14 @@
   "title": "Pap",
   "headlines": [
     {
+      "headline": "Zygmunt Solorz: nie jest prawdą, że sąd zablokował mój majątek",
+      "link": "https://www.pap.pl/aktualnosci/zygmunt-solorz-nie-jest-prawda-ze-sad-zablokowal-moj-majatek"
+    },
+    {
+      "headline": "Nawrocki: polska armia musi mieć 300 tysięcy żołnierzy. \"Polacy muszą czuć się bezpieczni\"",
+      "link": "https://www.pap.pl/aktualnosci/nawrocki-polska-armia-musi-miec-300-tysiecy-zolnierzy-polacy-musza-czuc-sie-bezpieczni"
+    },
+    {
       "headline": "Prezydent podpisał nowelizację ustawy o pomocy osobom uprawnionym do alimentów",
       "link": "https://www.pap.pl/aktualnosci/prezydent-podpisal-nowelizacje-ustawy-o-pomocy-osobom-uprawnionym-do-alimentow"
     },
@@ -22,12 +30,28 @@
       "link": "https://www.pap.pl/aktualnosci/polska-obejmuje-prezydencje-w-ue-pokazano-haslo-i-logo"
     },
     {
-      "headline": "Dwa nowe zarzuty pedofilii dla księdza z diecezji sosnowieckiej",
-      "link": "https://www.pap.pl/aktualnosci/dwa-nowe-zarzuty-pedofilii-dla-ksiedza-z-diecezji-sosnowieckiej"
+      "headline": "Flick o Lewandowskim przed meczem z Borussią: potrzebujemy Roberta, ale on potrzebuje też nas",
+      "link": "https://www.pap.pl/aktualnosci/flick-o-lewandowskim-przed-meczem-z-borussia-potrzebujemy-roberta-ale-potrzebuje-tez"
     },
     {
-      "headline": "Polska wstrzymuje wydawanie decyzji dla obywateli Syrii. Chodzi o ochronę międzynarodową",
-      "link": "https://www.pap.pl/aktualnosci/polska-wstrzymuje-wydawanie-decyzji-dla-obywateli-syrii-chodzi-o-ochrone-miedzynarodowa"
+      "headline": "Sport",
+      "link": "https://www.pap.pl/list-of-articles/47"
+    },
+    {
+      "headline": "Piłkarska Liga Mistrzów. Lider Liverpool wciąż z kompletem zwycięstw",
+      "link": "https://www.pap.pl/aktualnosci/pilkarska-liga-mistrzow-lider-liverpool-wciaz-z-kompletem-zwyciestw"
+    },
+    {
+      "headline": "Sport",
+      "link": "https://www.pap.pl/list-of-articles/47"
+    },
+    {
+      "headline": "Zygmunt Solorz: nie jest prawdą, że sąd zablokował mój majątek",
+      "link": "https://www.pap.pl/aktualnosci/zygmunt-solorz-nie-jest-prawda-ze-sad-zablokowal-moj-majatek"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
       "headline": "Szefowa unijnej dyplomacji: są obawy, że w Syrii odrodzi się ekstremizm",
@@ -44,31 +68,7 @@
     {
       "headline": "Świat",
       "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "MŚ w pływaniu - brązowy medal polskiej sztafety 4x100 m",
-      "link": "https://www.pap.pl/aktualnosci/ms-w-plywaniu-brazowy-medal-polskiej-sztafety-4x100-m"
-    },
-    {
-      "headline": "Sport",
-      "link": "https://www.pap.pl/list-of-articles/47"
-    },
-    {
-      "headline": "W Tbilisi ciąg dalszy protestów przeciwko rządowi. To już trzynasty wieczór z rzędu",
-      "link": "https://www.pap.pl/aktualnosci/w-tbilisi-ciag-dalszy-protestow-przeciwko-rzadowi-juz-trzynasty-wieczor-z-rzedu"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "Wręczono Nagrody Nobla w pięciu dziedzinach. Gościem specjalnym była Olga Tokarczuk",
-      "link": "https://www.pap.pl/aktualnosci/wreczono-nagrody-nobla-w-pieciu-dziedzinach-gosciem-specjalnym-byla-olga-tokarczuk"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
     }
   ],
-  "timestamp": "2024-12-10T20:15:30.985418"
+  "timestamp": "2024-12-10T21:13:05.209223"
 }
