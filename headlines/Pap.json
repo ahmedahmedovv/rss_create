@@ -2,12 +2,20 @@
   "title": "Pap",
   "headlines": [
     {
-      "headline": "Latające lisy w Łodzi. Nowi mieszkańcy zoo [NASZE ZDJĘCIA]",
-      "link": "https://www.pap.pl/aktualnosci/latajace-lisy-w-lodzi-nowi-mieszkancy-zoo-nasze-zdjecia"
-    },
-    {
       "headline": "Polska obejmuje prezydencję w UE. Pokazano hasło i logo",
       "link": "https://www.pap.pl/aktualnosci/polska-obejmuje-prezydencje-w-ue-pokazano-haslo-i-logo"
+    },
+    {
+      "headline": "Polska wstrzymuje wydawanie decyzji dla obywateli Syrii. Chodzi o ochronę międzynarodową",
+      "link": "https://www.pap.pl/aktualnosci/polska-wstrzymuje-wydawanie-decyzji-dla-obywateli-syrii-chodzi-o-ochrone-miedzynarodowa"
+    },
+    {
+      "headline": "Jak Polacy oceniają pracę urzędników? Badanie CBOS",
+      "link": "https://www.pap.pl/aktualnosci/jak-polacy-oceniaja-prace-urzednikow-badanie-cbos"
+    },
+    {
+      "headline": "Latające lisy w Łodzi. Nowi mieszkańcy zoo [NASZE ZDJĘCIA]",
+      "link": "https://www.pap.pl/aktualnosci/latajace-lisy-w-lodzi-nowi-mieszkancy-zoo-nasze-zdjecia"
     },
     {
       "headline": "Szef Komitetu Stałego Rady Ministrów: staramy się wyjść z pułapek prawnych, które zastawił na nas poprzedni rząd",
@@ -22,38 +30,6 @@
       "link": "https://www.pap.pl/aktualnosci/zabojstwo-wieziennej-psycholog-sad-podtrzymal-wyrok-dozywocia-wideo"
     },
     {
-      "headline": "Prognoza pogody na najbliższe dni. Synoptyk IMGW: jesteśmy w cieplejszej masie powietrza polarno-morskiego",
-      "link": "https://www.pap.pl/aktualnosci/prognoza-pogody-na-najblizsze-dni-synoptyk-imgw-jestesmy-w-cieplejszej-masie-powietrza"
-    },
-    {
-      "headline": "Syn prominentnego polityka PiS i umorzone śledztwo w sprawie przemocy seksualnej. Jest reakcja premiera",
-      "link": "https://www.pap.pl/aktualnosci/syn-prominentnego-polityka-pis-i-umorzone-sledztwo-w-sprawie-przemocy-seksualnej-jest"
-    },
-    {
-      "headline": "Zaprezentowano zwiastun serialu „Wzgórze psów” na podstawie powieści Żulczyka",
-      "link": "https://www.pap.pl/aktualnosci/zaprezentowano-zwiastun-serialu-wzgorze-psow-na-podstawie-powiesci-zulczyka"
-    },
-    {
-      "headline": "Kultura",
-      "link": "https://www.pap.pl/list-of-articles/45"
-    },
-    {
-      "headline": "Osiem osób zginęło w wyniku zawalenia się budynku mieszkalnego w Kairze",
-      "link": "https://www.pap.pl/aktualnosci/osiem-osob-zginelo-w-wyniku-zawalenia-sie-budynku-mieszkalnego-w-kairze"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "Latające lisy w Łodzi. Nowi mieszkańcy zoo [NASZE ZDJĘCIA]",
-      "link": "https://www.pap.pl/aktualnosci/latajace-lisy-w-lodzi-nowi-mieszkancy-zoo-nasze-zdjecia"
-    },
-    {
-      "headline": "Kraj",
-      "link": "https://www.pap.pl/list-of-articles/43"
-    },
-    {
       "headline": "Polska obejmuje prezydencję w UE. Pokazano hasło i logo",
       "link": "https://www.pap.pl/aktualnosci/polska-obejmuje-prezydencje-w-ue-pokazano-haslo-i-logo"
     },
@@ -62,13 +38,37 @@
       "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
-      "headline": "Portugalia. Podżegał do gwałtów na kobietach związanych z lewicą. Lider prawicowej partii usłyszał wyrok",
-      "link": "https://www.pap.pl/aktualnosci/portugalia-podzegal-do-gwaltow-na-kobietach-zwiazanych-z-lewica-lider-prawicowej-partii"
+      "headline": "Jak magnaci z Doliny Krzemowej wpłyną na kształtowanie rządu USA?",
+      "link": "https://www.pap.pl/aktualnosci/jak-magnaci-z-doliny-krzemowej-wplyna-na-ksztaltowanie-rzadu-usa"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
+      "headline": "Viktor Orban z wizytą w USA. Spotkał się z Trumpem i Muskiem",
+      "link": "https://www.pap.pl/aktualnosci/viktor-orban-z-wizyta-w-usa-spotkal-sie-z-trumpem-i-muskiem"
+    },
+    {
+      "headline": "Świat",
+      "link": "https://www.pap.pl/list-of-articles/48"
+    },
+    {
+      "headline": "Polska wstrzymuje wydawanie decyzji dla obywateli Syrii. Chodzi o ochronę międzynarodową",
+      "link": "https://www.pap.pl/aktualnosci/polska-wstrzymuje-wydawanie-decyzji-dla-obywateli-syrii-chodzi-o-ochrone-miedzynarodowa"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
+    },
+    {
+      "headline": "Trzy osoby zabite i 14 rannych po rosyjskim ataku na klinikę w Zaporożu",
+      "link": "https://www.pap.pl/aktualnosci/trzy-osoby-zabite-i-14-rannych-po-rosyjskim-ataku-na-klinike-w-zaporozu"
     },
     {
       "headline": "Świat",
       "link": "https://www.pap.pl/list-of-articles/48"
     }
   ],
-  "timestamp": "2024-12-10T15:15:14.654532"
+  "timestamp": "2024-12-10T16:18:05.660547"
 }

@@ -2,8 +2,12 @@
   "title": "Polskie",
   "headlines": [
     {
+      "headline": "Poland to abolish Anti-Corruption Bureau, shift focus to European legal system",
+      "link": "https://www.polskieradio.pl/395/7784/Artykul/3456648,poland-to-abolish-anticorruption-bureau-shift-focus-to-european-legal-system"
+    },
+    {
       "headline": "Memorials to Polish WWII soldiers destroyed in Russia",
-      "link": "https://www.polskieradio.pl/395/7785/Artykul/3456543,memorials-to-polish-wwii-soldiers-destroyed-in-russia"
+      "link": "https://www.polskieradio.pl/395/7789/Artykul/3456543,memorials-to-polish-wwii-soldiers-destroyed-in-russia"
     },
     {
       "headline": "Canada may provide financial support for Poland's first nuclear power plant",
@@ -44,11 +48,7 @@
     {
       "headline": "Romania's top court cancels presidential vote amid Russian meddling claims",
       "link": "https://www.polskieradio.pl/395/7785/Artykul/3455247,romanias-top-court-cancels-presidential-vote-amid-russian-meddling-claims"
-    },
-    {
-      "headline": "Poland obligated to enforce ICC arrest warrant for Israeli PM: official",
-      "link": "https://www.polskieradio.pl/395/7785/Artykul/3455244,poland-obligated-to-enforce-icc-arrest-warrant-for-israeli-pm-official"
     }
   ],
-  "timestamp": "2024-12-10T15:15:13.494735"
+  "timestamp": "2024-12-10T16:18:03.546676"
 }
