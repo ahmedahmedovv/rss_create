@@ -2,8 +2,16 @@
   "title": "Pap",
   "headlines": [
     {
+      "headline": "Incydent podczas miesięcznicy smoleńskiej. Antoni Macierewicz zatrzymany do kontroli",
+      "link": "https://www.pap.pl/aktualnosci/incydent-podczas-miesiecznicy-smolenskiej-antoni-macierewicz-zatrzymany-do-kontroli"
+    },
+    {
       "headline": "Polska obejmuje prezydencję w UE. Pokazano hasło i logo",
       "link": "https://www.pap.pl/aktualnosci/polska-obejmuje-prezydencje-w-ue-pokazano-haslo-i-logo"
+    },
+    {
+      "headline": "Dwa nowe zarzuty pedofilii dla księdza z diecezji sosnowieckiej",
+      "link": "https://www.pap.pl/aktualnosci/dwa-nowe-zarzuty-pedofilii-dla-ksiedza-z-diecezji-sosnowieckiej"
     },
     {
       "headline": "Polska wstrzymuje wydawanie decyzji dla obywateli Syrii. Chodzi o ochronę międzynarodową",
@@ -22,12 +30,28 @@
       "link": "https://www.pap.pl/aktualnosci/szef-komitetu-stalego-rady-ministrow-staramy-sie-wyjsc-z-pulapek-prawnych-ktore"
     },
     {
-      "headline": "Co się dzieje w łódzkim PiS? Jarosław Kaczyński zawiesza dwóch polityków",
-      "link": "https://www.pap.pl/aktualnosci/co-sie-dzieje-w-lodzkim-pis-jaroslaw-kaczynski-zawiesza-dwoch-politykow"
+      "headline": "Incydent podczas miesięcznicy smoleńskiej. Antoni Macierewicz zatrzymany do kontroli",
+      "link": "https://www.pap.pl/aktualnosci/incydent-podczas-miesiecznicy-smolenskiej-antoni-macierewicz-zatrzymany-do-kontroli"
     },
     {
-      "headline": "Zabójstwo więziennej psycholog. Sąd podtrzymał wyrok dożywocia [WIDEO]",
-      "link": "https://www.pap.pl/aktualnosci/zabojstwo-wieziennej-psycholog-sad-podtrzymal-wyrok-dozywocia-wideo"
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
+    },
+    {
+      "headline": "Polskie piłkarki ręczne pokonały Rumunię 29:24 na zakończenie występów w drugiej rundzie mistrzostw Europy",
+      "link": "https://www.pap.pl/aktualnosci/polskie-pilkarki-reczne-pokonaly-rumunie-2924-na-zakonczenie-wystepow-w-drugiej-rundzie"
+    },
+    {
+      "headline": "Sport",
+      "link": "https://www.pap.pl/list-of-articles/47"
+    },
+    {
+      "headline": "Magdalena Cielecka gwiazdą nowego serialu kryminalnego",
+      "link": "https://www.pap.pl/aktualnosci/magdalena-cielecka-gwiazda-nowego-serialu-kryminalnego"
+    },
+    {
+      "headline": "Kultura",
+      "link": "https://www.pap.pl/list-of-articles/45"
     },
     {
       "headline": "Polska obejmuje prezydencję w UE. Pokazano hasło i logo",
@@ -38,37 +62,13 @@
       "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
-      "headline": "Jak magnaci z Doliny Krzemowej wpłyną na kształtowanie rządu USA?",
-      "link": "https://www.pap.pl/aktualnosci/jak-magnaci-z-doliny-krzemowej-wplyna-na-ksztaltowanie-rzadu-usa"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "Viktor Orban z wizytą w USA. Spotkał się z Trumpem i Muskiem",
-      "link": "https://www.pap.pl/aktualnosci/viktor-orban-z-wizyta-w-usa-spotkal-sie-z-trumpem-i-muskiem"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "Polska wstrzymuje wydawanie decyzji dla obywateli Syrii. Chodzi o ochronę międzynarodową",
-      "link": "https://www.pap.pl/aktualnosci/polska-wstrzymuje-wydawanie-decyzji-dla-obywateli-syrii-chodzi-o-ochrone-miedzynarodowa"
+      "headline": "Dwa nowe zarzuty pedofilii dla księdza z diecezji sosnowieckiej",
+      "link": "https://www.pap.pl/aktualnosci/dwa-nowe-zarzuty-pedofilii-dla-ksiedza-z-diecezji-sosnowieckiej"
     },
     {
       "headline": "Kraj",
       "link": "https://www.pap.pl/list-of-articles/43"
-    },
-    {
-      "headline": "Trzy osoby zabite i 14 rannych po rosyjskim ataku na klinikę w Zaporożu",
-      "link": "https://www.pap.pl/aktualnosci/trzy-osoby-zabite-i-14-rannych-po-rosyjskim-ataku-na-klinike-w-zaporozu"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
     }
   ],
-  "timestamp": "2024-12-10T16:18:05.660547"
+  "timestamp": "2024-12-10T17:12:38.942967"
 }
