@@ -2,6 +2,26 @@
   "title": "Pap",
   "headlines": [
     {
+      "headline": "Szef Komitetu Stałego Rady Ministrów: staramy się wyjść z pułapek prawnych, które zastawił na nas poprzedni rząd",
+      "link": "https://www.pap.pl/aktualnosci/szef-komitetu-stalego-rady-ministrow-staramy-sie-wyjsc-z-pulapek-prawnych-ktore"
+    },
+    {
+      "headline": "Co się dzieje w łódzkim PiS? Jarosław Kaczyński zawiesza dwóch polityków",
+      "link": "https://www.pap.pl/aktualnosci/co-sie-dzieje-w-lodzkim-pis-jaroslaw-kaczynski-zawiesza-dwoch-politykow"
+    },
+    {
+      "headline": "Zabójstwo więziennej psycholog. Sąd podtrzymał wyrok dożywocia [WIDEO]",
+      "link": "https://www.pap.pl/aktualnosci/zabojstwo-wieziennej-psycholog-sad-podtrzymal-wyrok-dozywocia-wideo"
+    },
+    {
+      "headline": "Prognoza pogody na najbliższe dni. Synoptyk IMGW: jesteśmy w cieplejszej masie powietrza polarno-morskiego",
+      "link": "https://www.pap.pl/aktualnosci/prognoza-pogody-na-najblizsze-dni-synoptyk-imgw-jestesmy-w-cieplejszej-masie-powietrza"
+    },
+    {
+      "headline": "Syn prominentnego polityka PiS i umorzone śledztwo w sprawie przemocy seksualnej. Jest reakcja premiera",
+      "link": "https://www.pap.pl/aktualnosci/syn-prominentnego-polityka-pis-i-umorzone-sledztwo-w-sprawie-przemocy-seksualnej-jest"
+    },
+    {
       "headline": "\"Ten projekt wypali zło\". Premier zapowiada ważną zmianę",
       "link": "https://www.pap.pl/aktualnosci/ten-projekt-wypali-zlo-premier-zapowiada-wazna-zmiane"
     },
@@ -10,65 +30,45 @@
       "link": "https://www.pap.pl/aktualnosci/spacerowala-w-poblizu-strzelnicy-gdzie-cwiczyli-policjanci-zostala-postrzelona-w-glowe"
     },
     {
-      "headline": "Szefowa Kancelarii Prezydenta: przed nowym prezesem TK duże wyzwanie",
-      "link": "https://www.pap.pl/aktualnosci/szefowa-kancelarii-prezydenta-przed-nowym-prezesem-tk-duze-wyzwanie"
+      "headline": "Szef Komitetu Stałego Rady Ministrów: staramy się wyjść z pułapek prawnych, które zastawił na nas poprzedni rząd",
+      "link": "https://www.pap.pl/aktualnosci/szef-komitetu-stalego-rady-ministrow-staramy-sie-wyjsc-z-pulapek-prawnych-ktore"
     },
     {
-      "headline": "Kaczyński na miesięcznicy smoleńskiej. Padły słowa o \"agenturze Putina\"",
-      "link": "https://www.pap.pl/aktualnosci/kaczynski-na-miesiecznicy-smolenskiej-padly-slowa-o-agenturze-putina"
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
-      "headline": "Handlowali kundelkami na bazarze. Usłyszeli zarzuty [ZDJĘCIA]",
-      "link": "https://www.pap.pl/aktualnosci/handlowali-kundelkami-na-bazarze-uslyszeli-zarzuty-zdjecia"
-    },
-    {
-      "headline": "Zygmunt Solorz przegrał w sądzie ze swoimi dziećmi. Majątek miliardera zablokowany",
-      "link": "https://www.pap.pl/aktualnosci/zygmunt-solorz-przegral-w-sadzie-ze-swoimi-dziecmi-majatek-miliardera-zablokowany"
-    },
-    {
-      "headline": "Zmiany w prawie karnym. Szef MSW o planach Bodnara: skrajnie liberalne, niezrozumiałe",
-      "link": "https://www.pap.pl/aktualnosci/zmiany-w-prawie-karnym-szef-msw-o-planach-bodnara-skrajnie-liberalne-niezrozumiale"
-    },
-    {
-      "headline": "Kluczowa decyzja ws. Mistrzostw Świata. Tego dnia FIFA ma potwierdzić gospodarzy",
-      "link": "https://www.pap.pl/aktualnosci/kluczowa-decyzja-ws-mistrzostw-swiata-tego-dnia-fifa-ma-potwierdzic-gospodarzy"
-    },
-    {
-      "headline": "Sport",
-      "link": "https://www.pap.pl/list-of-articles/47"
-    },
-    {
-      "headline": "Branża turystyczna we Włoszech na celowniku mafii. Raport",
-      "link": "https://www.pap.pl/aktualnosci/branza-turystyczna-we-wloszech-na-celowniku-mafii-raport"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "To on będzie rządzić Syrią. Premier rządu tymczasowego mianowany",
-      "link": "https://www.pap.pl/aktualnosci/bedzie-rzadzic-syria-premier-rzadu-tymczasowego-mianowany"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "Spektakularne świątecznie iluminacje w Nowym Jorku i Waszyngtonie [WIDEO]",
-      "link": "https://www.pap.pl/aktualnosci/spektakularne-swiatecznie-iluminacje-w-nowym-jorku-i-waszyngtonie-wideo"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "Młodzieżowe Słowo Roku 2024. Znamy wyniki plebiscytu",
-      "link": "https://www.pap.pl/aktualnosci/mlodziezowe-slowo-roku-2024-znamy-wyniki-plebiscytu"
+      "headline": "Najnowszy singiel Miley Cyrus z utworem z filmu z Pamelą Anderson jest nominowany do Złotego Globu",
+      "link": "https://www.pap.pl/aktualnosci/najnowszy-singiel-miley-cyrus-z-utworem-z-filmu-z-pamela-anderson-jest-nominowany-do"
     },
     {
       "headline": "Kultura",
       "link": "https://www.pap.pl/list-of-articles/45"
+    },
+    {
+      "headline": "Co się dzieje w łódzkim PiS? Jarosław Kaczyński zawiesza dwóch polityków",
+      "link": "https://www.pap.pl/aktualnosci/co-sie-dzieje-w-lodzkim-pis-jaroslaw-kaczynski-zawiesza-dwoch-politykow"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
+    },
+    {
+      "headline": "Zabójstwo więziennej psycholog. Sąd podtrzymał wyrok dożywocia [WIDEO]",
+      "link": "https://www.pap.pl/aktualnosci/zabojstwo-wieziennej-psycholog-sad-podtrzymal-wyrok-dozywocia-wideo"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
+    },
+    {
+      "headline": "Prognoza pogody na najbliższe dni. Synoptyk IMGW: jesteśmy w cieplejszej masie powietrza polarno-morskiego",
+      "link": "https://www.pap.pl/aktualnosci/prognoza-pogody-na-najblizsze-dni-synoptyk-imgw-jestesmy-w-cieplejszej-masie-powietrza"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
     }
   ],
-  "timestamp": "2024-12-10T13:25:08.533160"
+  "timestamp": "2024-12-10T14:13:47.040696"
 }
