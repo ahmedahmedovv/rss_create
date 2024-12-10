@@ -2,6 +2,10 @@
   "title": "Sabah",
   "headlines": [
     {
+      "headline": "SON DAKİKA HABERİ: Galatasaray'a Victor Osimhen müjdesi! Napoli'den resmi açıklama geldi...",
+      "link": "https://www.sabah.com.tr/trend/galeri/spor/son-dakika-haberi-galatasaraya-victor-osimhen-mujdesi-napoliden-resmi-aciklama-geldi"
+    },
+    {
       "headline": "Sporun zirvesi Turkuvaz Medya'da! Montella soruları yanıtlayacak...",
       "link": "https://www.sabah.com.tr/spor/futbol/2024/12/10/sporun-zirvesi-turkuvaz-medyada-montella-sorulari-yanitlayacak"
     },
@@ -10,20 +14,12 @@
       "link": "https://www.sabah.com.tr/galeri/ekonomi/son-dakika-cumhurbaskani-yardimcisi-cevdet-yilmazdan-asgari-ucret-aciklamasi-bir-denge-bulunacaktir"
     },
     {
-      "headline": "Aile destek Aralık ayı ödemesi yattı mı? Aile Destek Yardımı bu ay son mu, 2025'te devam edecek mi?",
-      "link": "https://www.sabah.com.tr/yasam/aralik-ayi-aile-destek-odemeleri-ne-zaman-yatacak-aile-destek-odemeleri-bu-ay-son-mu-uzatilacak-mi-7188190"
-    },
-    {
       "headline": "Turgut Doman'ın ilk savunması ortaya çıktı! Sivasspor - Galatasaray maçı sonrası ne konuşuldu?",
       "link": "https://www.sabah.com.tr/trend/galeri/spor/turgut-domanin-ilk-savunmasi-ortaya-cikti-sivasspor-galatasaray-maci-sonrasi-ne-konusuldu"
     },
     {
       "headline": "Son dakika: Başkan Erdoğan: Baas diktatörlüğü çöktü, Şam asıl sahiplerinin eline geçti",
       "link": "https://www.sabah.com.tr/gundem/2024/12/09/son-dakika-baskan-erdogandan-kabine-toplantisi-sonrasi-onemli-aciklamalar"
-    },
-    {
-      "headline": "Evlilik yıl dönümünde katliam: 16 yıllık eşini öldürdü, intihar etti",
-      "link": "https://www.sabah.com.tr/galeri/yasam/evlilik-yil-donumunde-katliam-16-yillik-esini-oldurdu-intihar-etti"
     },
     {
       "headline": "Son dakika haberi: Dirk Kuyt, Fenerbahçe'den transferini yapıyor! Görüşmeler başladı...",
@@ -40,7 +36,11 @@
     {
       "headline": "Son dakika: Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'dan asgari ücret açıklaması: Bir denge bulunacaktır",
       "link": "https://www.sabah.com.tr/galeri/ekonomi/son-dakika-cumhurbaskani-yardimcisi-cevdet-yilmazdan-asgari-ucret-aciklamasi-bir-denge-bulunacaktir"
+    },
+    {
+      "headline": "Anadolu Sigorta'dan kullanıcılara küfürlü bildirim! Hesap bilgilerini çalmaya çalıştılar",
+      "link": "https://www.sabah.com.tr/gundem/2024/12/09/anadolu-sigortadan-kullanicilara-kufurlu-bildirim-hesap-bilgillerini-calmaya-calistilar"
     }
   ],
-  "timestamp": "2024-12-10T04:17:10.900413"
+  "timestamp": "2024-12-10T05:14:14.572674"
 }
