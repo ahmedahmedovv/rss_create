@@ -2,11 +2,27 @@
   "title": "Trt",
   "headlines": [
     {
+      "headline": "İstanbul için kuvvetli sağanak ve fırtına uyarısı",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbul-icin-kuvvetli-saganak-ve-firtina-uyarisi-891165.html"
+    },
+    {
+      "headline": "Asgari ücret belli oluyor: İlk toplantı başladı",
+      "link": "https://www.trthaber.com/haber/ekonomi/asgari-ucret-belli-oluyor-ilk-toplanti-basladi-891164.html"
+    },
+    {
+      "headline": "İtalya'da petrol rafinerisindeki patlamada ölenlerin sayısı 5'e çıktı",
+      "link": "https://www.trthaber.com/haber/dunya/italyada-petrol-rafinerisindeki-patlamada-olenlerin-sayisi-5e-cikti-891163.html"
+    },
+    {
+      "headline": "Bakan Işıkhan'dan asgari ücret açıklaması",
+      "link": "https://www.trthaber.com/haber/ekonomi/bakan-isikhandan-asgari-ucret-aciklamasi-891162.html"
+    },
+    {
       "headline": "Ege Bölgesi için kuvvetli yağış uyarısı",
       "link": "https://www.trthaber.com/haber/turkiye/ege-bolgesi-icin-kuvvetli-yagis-uyarisi-891161.html"
     },
     {
-      "headline": "Cumhurbaşkanı Erdoğan Azerbaycan Cumhurbaşkanı Aliyev ile görüştü",
+      "headline": "Cumhurbaşkanı Erdoğan, Azerbaycan Cumhurbaşkanı Aliyev ile görüştü",
       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-azerbaycan-cumhurbaskani-aliyev-ile-gorustu-891160.html"
     },
     {
@@ -24,23 +40,7 @@
     {
       "headline": "Suriye'de zindanlarda geçirdiği 33 yılın ardından ülkesine dönen Lübnanlı yaşadıklarını anlattı",
       "link": "https://www.trthaber.com/haber/dunya/suriyede-zindanlarda-gecirdigi-33-yilin-ardindan-ulkesine-donen-lubnanli-yasadiklarini-anlatti-891156.html"
-    },
-    {
-      "headline": "Şam Büyükelçiliği yeniden açılacak mı?",
-      "link": "https://www.trthaber.com/haber/gundem/sam-buyukelciligi-yeniden-acilacak-mi-891155.html"
-    },
-    {
-      "headline": "OpenAI, yapay zeka yarışında \"Sora\" ile yeni bir hamle yaptı",
-      "link": "https://www.trthaber.com/haber/dunya/openai-yapay-zeka-yarisinda-sora-ile-yeni-bir-hamle-yapti-891154.html"
-    },
-    {
-      "headline": "Tahran'da hava kirliliği nedeniyle tüm okullar ve kurumlar tatil edildi",
-      "link": "https://www.trthaber.com/haber/dunya/tahranda-hava-kirliligi-nedeniyle-tum-okullar-ve-kurumlar-tatil-edildi-891153.html"
-    },
-    {
-      "headline": "Almanya, İkinci Dünya Savaşı'ndaki bir katliamdan ötürü İtalya'da tazminat ödeyecek",
-      "link": "https://www.trthaber.com/haber/dunya/almanya-ikinci-dunya-savasindaki-bir-katliamdan-oturu-italyada-tazminat-odeyecek-891151.html"
     }
   ],
-  "timestamp": "2024-12-10T12:28:09.501927"
+  "timestamp": "2024-12-10T13:25:04.744987"
 }
