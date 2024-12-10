@@ -2,8 +2,16 @@
   "title": "Polskie",
   "headlines": [
     {
+      "headline": "Canada may provide financial support for Poland's first nuclear power plant",
+      "link": "https://www.polskieradio.pl/395/7786/Artykul/3456492,canada-may-provide-financial-support-for-polands-first-nuclear-power-plant"
+    },
+    {
       "headline": "Polish parliamentary Speaker to visit Finland",
       "link": "https://www.polskieradio.pl/395/7784/Artykul/3456445,polish-parliamentary-speaker-to-visit-finland"
+    },
+    {
+      "headline": "Polish, Tunisian FMs discuss security, tourism, EU policies",
+      "link": "https://www.polskieradio.pl/395/7784/Artykul/3456253,polish-tunisian-fms-discuss-security-tourism-eu-policies"
     },
     {
       "headline": "Trump suggests reduced U.S. support for Ukraine, ties NATO membership to Europe ‘paying their bills’",
@@ -40,15 +48,7 @@
     {
       "headline": "Polish, French, German FMs decry Georgia's decision to halt EU accession talks",
       "link": "https://www.polskieradio.pl/395/7785/Artykul/3455236,polish-french-german-fms-decry-georgias-decision-to-halt-eu-accession-talks"
-    },
-    {
-      "headline": "Georgians demonstrate again, opposition leaders arrested",
-      "link": "https://www.polskieradio.pl/395/7785/Artykul/3455002,georgians-demonstrate-again-opposition-leaders-arrested"
-    },
-    {
-      "headline": "Poland’s Duda hails Lithuania’s acquisition of LNG terminal as symbol of European energy sovereignty",
-      "link": "https://www.polskieradio.pl/395/7785/Artykul/3454959,poland’s-duda-hails-lithuania’s-acquisition-of-lng-terminal-as-symbol-of-european-energy-sovereignty"
     }
   ],
-  "timestamp": "2024-12-10T11:12:10.768798"
+  "timestamp": "2024-12-10T12:28:12.804679"
 }
