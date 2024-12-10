@@ -2,6 +2,14 @@
   "title": "Pap",
   "headlines": [
     {
+      "headline": "Nawrocki czy Trzaskowski - kto prowadzi w sondażach przedwyborczych?",
+      "link": "https://www.pap.pl/aktualnosci/nawrocki-czy-trzaskowski-kto-prowadzi-w-sondazach-przedwyborczych"
+    },
+    {
+      "headline": "Sondaż poparcia. Które partie cieszą się największym zaufaniem?",
+      "link": "https://www.pap.pl/aktualnosci/sondaz-poparcia-ktore-partie-ciesza-sie-najwiekszym-zaufaniem"
+    },
+    {
       "headline": "Czy doszło do porozumienia w sprawie lekcji religii? Mowa o krokach prawnych ze strony kościelnej",
       "link": "https://www.pap.pl/aktualnosci/czy-doszlo-do-porozumienia-w-sprawie-lekcji-religii-mowa-o-krokach-prawnych-ze-strony"
     },
@@ -22,12 +30,20 @@
       "link": "https://www.pap.pl/aktualnosci/noworodek-w-oknie-zycia-w-koszalinie"
     },
     {
-      "headline": "Czasowe zawieszenie prawa do azylu. Na czym ma polegać i kogo dotyczyć?",
-      "link": "https://www.pap.pl/aktualnosci/czasowe-zawieszenie-prawa-do-azylu-na-czym-ma-polegac-i-kogo-dotyczyc"
+      "headline": "Nawrocki czy Trzaskowski - kto prowadzi w sondażach przedwyborczych?",
+      "link": "https://www.pap.pl/aktualnosci/nawrocki-czy-trzaskowski-kto-prowadzi-w-sondazach-przedwyborczych"
     },
     {
-      "headline": "Nożownik z Grodziska Mazowieckiego aresztowany",
-      "link": "https://www.pap.pl/aktualnosci/nozownik-z-grodziska-mazowieckiego-aresztowany"
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
+    },
+    {
+      "headline": "Sondaż poparcia. Które partie cieszą się największym zaufaniem?",
+      "link": "https://www.pap.pl/aktualnosci/sondaz-poparcia-ktore-partie-ciesza-sie-najwiekszym-zaufaniem"
+    },
+    {
+      "headline": "Kraj",
+      "link": "https://www.pap.pl/list-of-articles/43"
     },
     {
       "headline": "Zełenski wyraził \"wdzięczność\" Trumpowi za \"mocną determinację\" zakończenia wojny na Ukrainie",
@@ -52,23 +68,7 @@
     {
       "headline": "Świat",
       "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "Przywódca sekty w USA skazany za poligamię i zmuszanie nieletnich do seksu",
-      "link": "https://www.pap.pl/aktualnosci/przywodca-sekty-w-usa-skazany-za-poligamie-i-zmuszanie-nieletnich-do-seksu"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
-    },
-    {
-      "headline": "Raport: w serbskich mediach dominuje narracja Kremla i budowanie pozytywnego wizerunku Putina",
-      "link": "https://www.pap.pl/aktualnosci/raport-w-serbskich-mediach-dominuje-narracja-kremla-i-budowanie-pozytywnego-wizerunku"
-    },
-    {
-      "headline": "Świat",
-      "link": "https://www.pap.pl/list-of-articles/48"
     }
   ],
-  "timestamp": "2024-12-10T07:13:52.063945"
+  "timestamp": "2024-12-10T08:19:05.261253"
 }
